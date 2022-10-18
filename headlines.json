@@ -1,5 +1,28 @@
 [
   {
+    "id": 6230572,
+    "slug": "140000-oud-studenten-gaan-rente-betalen-over-studieschuld",
+    "type": "article",
+    "title": "140.000 oud-studenten gaan rente betalen over studieschuld",
+    "subtitle": null,
+    "published_at": "2022-10-18T09:50:15+02:00",
+    "updated_at": "2022-10-18T09:50:21+02:00",
+    "media_id": "31qxkilai93k",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6230572/140000-oud-studenten-gaan-rente-betalen-over-studieschuld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6230564,
     "slug": "nadine-visser-kiest-na-breuk-met-bennema-voor-zelfde-coach-als-femke-bol",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/nu-klimaat/6230433/co2-reduceren-of-compenseren-wat-je-moet-weten-over-duurzame-claims.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230537,
-    "slug": "weerbericht-in-de-ochtend-flink-wat-nevel-en-mist-later-zachte-temperaturen",
-    "type": "article",
-    "title": "Weerbericht: In de ochtend flink wat nevel en mist, later zachte temperaturen",
-    "subtitle": null,
-    "published_at": "2022-10-18T05:29:18+02:00",
-    "updated_at": "2022-10-18T06:52:27+02:00",
-    "media_id": "e0vx1q0awkft",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6230537/weerbericht-in-de-ochtend-flink-wat-nevel-en-mist-later-zachte-temperaturen.html",
     "open_new_window": false,
     "partner": null
   }
