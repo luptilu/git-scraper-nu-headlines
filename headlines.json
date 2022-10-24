@@ -1,5 +1,28 @@
 [
   {
+    "id": 6231974,
+    "slug": "faillissement-dreigt-voor-delfzijlse-aluminiumfabriek-aldel",
+    "type": "article",
+    "title": "Faillissement dreigt voor Delfzijlse aluminiumfabriek Aldel",
+    "subtitle": null,
+    "published_at": "2022-10-24T19:00:02+02:00",
+    "updated_at": "2022-10-24T19:03:39+02:00",
+    "media_id": "gi5x4pnahvl1",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6231974/faillissement-dreigt-voor-delfzijlse-aluminiumfabriek-aldel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6231965,
     "slug": "weer-storing-in-amsterdamse-metro-alle-rijtuigen-staan-stil",
     "type": "article",
@@ -144,7 +167,7 @@
     "title": "Eerste twintigers kunnen herhaalprik halen, later deze week ook laatste groepen",
     "subtitle": null,
     "published_at": "2022-10-24T17:04:21+02:00",
-    "updated_at": "2022-10-24T17:04:21+02:00",
+    "updated_at": "2022-10-24T18:58:28+02:00",
     "media_id": "mtfxp1yaps1h",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/nu-formule-1/6231883/terugblik-combinatie-red-bull-en-verstappen-lijkt-nagenoeg-onverslaanbaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231903,
-    "slug": "recordaantal-bezoekers-voor-eerste-editie-ade-sinds-coronapandemie",
-    "type": "article",
-    "title": "Recordaantal bezoekers voor eerste editie ADE sinds coronapandemie",
-    "subtitle": null,
-    "published_at": "2022-10-24T13:54:07+02:00",
-    "updated_at": "2022-10-24T16:59:32+02:00",
-    "media_id": "2o8xq4yar579",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6231903/recordaantal-bezoekers-voor-eerste-editie-ade-sinds-coronapandemie.html",
     "open_new_window": false,
     "partner": null
   }
