@@ -1,5 +1,51 @@
 [
   {
+    "id": 6233192,
+    "slug": "johnny-de-mol-stopt-definitief-als-presentator-hlf8-toekomst-programma-onzeker",
+    "type": "article",
+    "title": "Johnny de Mol stopt definitief als presentator HLF8, toekomst programma onzeker",
+    "subtitle": null,
+    "published_at": "2022-10-31T11:45:53+01:00",
+    "updated_at": "2022-10-31T11:46:35+01:00",
+    "media_id": "1n7xegla5zwv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6233192/johnny-de-mol-stopt-definitief-als-presentator-hlf8-toekomst-programma-onzeker.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233189,
+    "slug": "inflatie-eurozone-bereikt-recordhoogte-van-107-procent",
+    "type": "article",
+    "title": "Inflatie eurozone bereikt recordhoogte van 10,7 procent",
+    "subtitle": null,
+    "published_at": "2022-10-31T11:37:59+01:00",
+    "updated_at": "2022-10-31T11:38:00+01:00",
+    "media_id": "q00xrhuavoss",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6233189/inflatie-eurozone-bereikt-recordhoogte-van-107-procent.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6233185,
     "slug": "china-lanceert-laatste-onderdeel-van-eigen-ruimtestation",
     "type": "article",
@@ -98,7 +144,7 @@
     "title": "Hele maandagochtend vallen veel treinen in de Randstad uit",
     "subtitle": null,
     "published_at": "2022-10-31T10:05:30+01:00",
-    "updated_at": "2022-10-31T11:24:26+01:00",
+    "updated_at": "2022-10-31T11:39:05+01:00",
     "media_id": "0vnxqmeajhem",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6233135/turnster-visser-zorgt-voor-zeldzaamheid-met-wk-finale-op-drie-onderdelen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233134,
-    "slug": "kim-kardashian-volledig-in-het-blauw-voor-halloween",
-    "type": "article",
-    "title": "Kim Kardashian volledig in het blauw voor Halloween",
-    "subtitle": "Achterklap-updates",
-    "published_at": "2022-10-31T07:27:42+01:00",
-    "updated_at": "2022-10-31T08:16:22+01:00",
-    "media_id": "xqrxy3oa5fli",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6233134/kim-kardashian-volledig-in-het-blauw-voor-halloween.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233133,
-    "slug": "wat-wil-jij-weten-over-de-grand-prix-van-mexico",
-    "type": "article",
-    "title": "Wat wil jij weten over de Grand Prix van Mexico?",
-    "subtitle": null,
-    "published_at": "2022-10-31T07:13:46+01:00",
-    "updated_at": "2022-10-31T07:14:11+01:00",
-    "media_id": "ab8xj03ag4li",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778846,
-      "slug": "nu-formule-1",
-      "type": "default",
-      "name": "NU+ Formule 1",
-      "style": "nusport",
-      "media_id": "gtmxcxnaui5m",
-      "partner": null
-    },
-    "url": "/nu-formule-1/6233133/wat-wil-jij-weten-over-de-grand-prix-van-mexico.html",
     "open_new_window": false,
     "partner": null
   }
