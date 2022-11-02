@@ -1,12 +1,35 @@
 [
   {
+    "id": 6233576,
+    "slug": "zuid-korea-en-vs-houden-grote-oefening-met-gevechtsvliegtuigen",
+    "type": "video",
+    "title": "Zuid-Korea en VS houden grote oefening met gevechtsvliegtuigen",
+    "subtitle": "Video",
+    "published_at": "2022-11-02T08:52:46+01:00",
+    "updated_at": "2022-11-02T08:56:21+01:00",
+    "media_id": "8fkxwlzaylwx",
+    "duration": "0:43",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6233576/zuid-korea-en-vs-houden-grote-oefening-met-gevechtsvliegtuigen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6233570,
     "slug": "barend-van-deelen-sophie-hijlkema-en-rob-janssen-in-glazen-huis-3fm",
     "type": "article",
     "title": "Barend van Deelen, Sophie Hijlkema en Rob Janssen in Glazen Huis 3FM",
     "subtitle": null,
     "published_at": "2022-11-02T08:46:37+01:00",
-    "updated_at": "2022-11-02T08:46:38+01:00",
+    "updated_at": "2022-11-02T08:47:33+01:00",
     "media_id": "2gkx8bkaiwt8",
     "duration": null,
     "canonical_section": {
@@ -232,13 +255,13 @@
   {
     "id": 6233522,
     "slug": "taylor-swift-bezet-complete-top-10-in-vs-hoe-doet-ze-dat",
-    "type": "video",
+    "type": "article",
     "title": "Taylor Swift bezet complete top 10 in VS: hoe doet ze dat?",
     "subtitle": "Video",
     "published_at": "2022-11-02T06:01:19+01:00",
-    "updated_at": "2022-11-02T06:01:20+01:00",
+    "updated_at": "2022-11-02T09:14:02+01:00",
     "media_id": "alzxo7wa673j",
-    "duration": "2:17",
+    "duration": null,
     "canonical_section": {
       "id": 100,
       "slug": "algemeen",
@@ -259,7 +282,7 @@
     "title": "We moeten stoppen met het verzetten  van de klok elk half jaar",
     "subtitle": null,
     "published_at": "2022-11-02T05:55:50+01:00",
-    "updated_at": "2022-11-02T05:55:51+01:00",
+    "updated_at": "2022-11-02T09:18:25+01:00",
     "media_id": "30wxyoua9kid",
     "duration": null,
     "canonical_section": {
@@ -351,7 +374,7 @@
     "title": "Aziatische Nederlanders willen zichzelf niet meer als stereotypes op tv terugzien",
     "subtitle": null,
     "published_at": "2022-11-02T05:33:27+01:00",
-    "updated_at": "2022-11-02T08:01:37+01:00",
+    "updated_at": "2022-11-02T08:52:08+01:00",
     "media_id": "7wpxiu6ajzg2",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6232541/moeder-carlo-heuvelman-hij-was-een-vrolijke-gezellige-en-energieke-jongen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233540,
-    "slug": "noord-korea-lanceert-tien-raketten-zuid-korea-antwoordt-met-straaljagers",
-    "type": "article",
-    "title": "Noord-Korea lanceert tien raketten, Zuid-Korea antwoordt met straaljagers",
-    "subtitle": null,
-    "published_at": "2022-11-02T04:51:41+01:00",
-    "updated_at": "2022-11-02T06:30:09+01:00",
-    "media_id": "claxuyma8tux",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6233540/noord-korea-lanceert-tien-raketten-zuid-korea-antwoordt-met-straaljagers.html",
     "open_new_window": false,
     "partner": null
   }
