@@ -1,12 +1,35 @@
 [
   {
-    "id": 6236849,
-    "slug": "homoseksueel-stel-aangevallen-in-amsterdam-man-68-in-ziekenhuis-geslagen",
+    "id": 6236848,
+    "slug": "jay-leno-krijgt-huidtransplantatie-voor-derdegraads-brandwonden",
     "type": "article",
-    "title": "Homoseksueel stel aangevallen in Amsterdam: man (68) in ziekenhuis geslagen",
+    "title": "Jay Leno krijgt huidtransplantatie voor derdegraads brandwonden",
+    "subtitle": null,
+    "published_at": "2022-11-17T18:33:11+01:00",
+    "updated_at": "2022-11-17T18:33:12+01:00",
+    "media_id": "nxzxywbad9rt",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6236848/jay-leno-krijgt-huidtransplantatie-voor-derdegraads-brandwonden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6236849,
+    "slug": "homoseksueel-stel-aangevallen-in-amsterdam-een-van-hen-in-ziekenhuis-beland",
+    "type": "article",
+    "title": "Homoseksueel stel aangevallen in Amsterdam, een van hen in ziekenhuis beland",
     "subtitle": null,
     "published_at": "2022-11-17T18:28:45+01:00",
-    "updated_at": "2022-11-17T18:29:36+01:00",
+    "updated_at": "2022-11-17T18:39:01+01:00",
     "media_id": "j1yxd8xafus3",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6236849/homoseksueel-stel-aangevallen-in-amsterdam-man-68-in-ziekenhuis-geslagen.html",
+    "url": "/binnenland/6236849/homoseksueel-stel-aangevallen-in-amsterdam-een-van-hen-in-ziekenhuis-beland.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6236802/perez-ontkent-dat-hij-opzettelijk-is-gecrasht-in-kwalificatie-gp-monaco.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6236797,
-    "slug": "antwoorden-van-de-nujij-redactie-alle-gebruikers-krijgen-dezelfde-behandeling",
-    "type": "article",
-    "title": "Antwoorden van de NUjij-redactie: 'Alle gebruikers krijgen dezelfde behandeling'",
-    "subtitle": null,
-    "published_at": "2022-11-17T16:25:38+01:00",
-    "updated_at": "2022-11-17T16:31:48+01:00",
-    "media_id": "yg5xrhyaf6jv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773185,
-      "slug": "nujij",
-      "type": "default",
-      "name": "Praat mee op NUjij",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nujij/6236797/antwoorden-van-de-nujij-redactie-alle-gebruikers-krijgen-dezelfde-behandeling.html",
     "open_new_window": false,
     "partner": null
   }
