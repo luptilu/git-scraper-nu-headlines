@@ -1,5 +1,28 @@
 [
   {
+    "id": 6244067,
+    "slug": "jongen-17-overleden-bij-schietpartij-in-amsterdam-twee-verdachten-opgepakt",
+    "type": "article",
+    "title": "Jongen (17) overleden bij schietpartij in Amsterdam, twee verdachten opgepakt",
+    "subtitle": null,
+    "published_at": "2022-12-24T10:14:06+01:00",
+    "updated_at": "2022-12-24T10:22:24+01:00",
+    "media_id": "l73xgcuaso6r",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6244067/jongen-17-overleden-bij-schietpartij-in-amsterdam-twee-verdachten-opgepakt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6244066,
     "slug": "overvolle-ziekenhuizen-in-chinese-steden-door-corona-uitbraak",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6244047/stroomstoring-die-30000-huizen-in-omgeving-haarlem-trof-na-uren-verholpen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6244046,
-    "slug": "kijkwijzer-familiefilm-pietje-bell-na-twintig-jaar-veranderd-in-12-vanwege-geweld",
-    "type": "article",
-    "title": "Kijkwijzer familiefilm Pietje Bell na twintig jaar veranderd in 12+ vanwege geweld",
-    "subtitle": null,
-    "published_at": "2022-12-23T23:52:23+01:00",
-    "updated_at": "2022-12-24T09:45:09+01:00",
-    "media_id": "op5xjsqajhjm",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6244046/kijkwijzer-familiefilm-pietje-bell-na-twintig-jaar-veranderd-in-12-vanwege-geweld.html",
     "open_new_window": false,
     "partner": null
   }
