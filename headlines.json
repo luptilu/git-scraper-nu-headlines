@@ -1,5 +1,28 @@
 [
   {
+    "id": 6246909,
+    "slug": "het-regent-maar-lang-niet-genoeg-het-stroomt-direct-naar-zee",
+    "type": "article",
+    "title": "Het regent, maar lang niet genoeg: 'Het stroomt direct naar zee'",
+    "subtitle": "NU+",
+    "published_at": "2023-01-16T05:30:40+01:00",
+    "updated_at": "2023-01-16T05:30:42+01:00",
+    "media_id": "j59xckzagygs",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772754,
+      "slug": "klimaat",
+      "type": "default",
+      "name": "Klimaat",
+      "style": "nuzakelijk",
+      "media_id": "kf4x3b2agsxg",
+      "partner": null
+    },
+    "url": "/klimaat/6246909/het-regent-maar-lang-niet-genoeg-het-stroomt-direct-naar-zee.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247120,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6247077/hoe-werkt-een-iq-test-en-wat-meet-je-ermee.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247101,
-    "slug": "arsenal-komt-dankzij-blunder-doelman-lloris-op-voorsprong-tegen-spurs",
-    "type": "video",
-    "title": "Arsenal komt dankzij blunder doelman Lloris op voorsprong tegen Spurs",
-    "subtitle": "Video",
-    "published_at": "2023-01-15T18:23:21+01:00",
-    "updated_at": "2023-01-15T19:46:05+01:00",
-    "media_id": "m76xjwdaahul",
-    "duration": "1:43",
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6247101/arsenal-komt-dankzij-blunder-doelman-lloris-op-voorsprong-tegen-spurs.html",
     "open_new_window": false,
     "partner": null
   }
