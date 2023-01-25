@@ -1,5 +1,28 @@
 [
   {
+    "id": 6248432,
+    "slug": "vierde-zoop-film-komt-eraan-met-de-vaste-cast",
+    "type": "article",
+    "title": "Vierde Zoop-film komt eraan, mét de vaste cast",
+    "subtitle": null,
+    "published_at": "2023-01-25T12:13:11+01:00",
+    "updated_at": "2023-01-25T12:13:12+01:00",
+    "media_id": "chvx008awhlq",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6248432/vierde-zoop-film-komt-eraan-met-de-vaste-cast.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247983,
     "slug": "psv-haalt-fabio-silva-als-eerste-winterversterking-hoever-terug-naar-wolves",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Kunstrijdster Van Zundert is een idool door Spelen, maar heeft ook geldzorgen",
     "subtitle": null,
     "published_at": "2023-01-25T11:58:38+01:00",
-    "updated_at": "2023-01-25T11:58:39+01:00",
+    "updated_at": "2023-01-25T12:16:31+01:00",
     "media_id": "scdxgzxafis0",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Duitsland stuurt twee bataljons van bijna negentig Leopard 2-tanks naar Oekraïne",
     "subtitle": null,
     "published_at": "2023-01-25T11:52:29+01:00",
-    "updated_at": "2023-01-25T12:07:34+01:00",
+    "updated_at": "2023-01-25T12:14:40+01:00",
     "media_id": "m1mxequauq8o",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6248399/introvert-of-extravert-praat-mee-over-jouw-persoonlijkheid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248402,
-    "slug": "chris-hipkins-ingezworen-als-nieuwe-premier-van-nieuw-zeeland",
-    "type": "article",
-    "title": "Chris Hipkins ingezworen als nieuwe premier van Nieuw-Zeeland",
-    "subtitle": null,
-    "published_at": "2023-01-25T08:57:38+01:00",
-    "updated_at": "2023-01-25T08:57:39+01:00",
-    "media_id": "xurx8ehavmbd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6248402/chris-hipkins-ingezworen-als-nieuwe-premier-van-nieuw-zeeland.html",
     "open_new_window": false,
     "partner": null
   }
