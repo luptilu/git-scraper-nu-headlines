@@ -1,12 +1,35 @@
 [
   {
+    "id": 6248535,
+    "slug": "man-loopt-met-zwaard-over-straat-na-aanval-in-spaanse-kerk",
+    "type": "video",
+    "title": "Man loopt met zwaard over straat na aanval in Spaanse kerk",
+    "subtitle": "Video",
+    "published_at": "2023-01-25T22:07:25+01:00",
+    "updated_at": "2023-01-25T22:07:26+01:00",
+    "media_id": "p5exl93ait5b",
+    "duration": "0:38",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6248535/man-loopt-met-zwaard-over-straat-na-aanval-in-spaanse-kerk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6248533,
-    "slug": "weghorst-maakt-in-league-cup-duel-eerste-doelpunt-voor-manchester-united",
+    "slug": "weghorst-maakt-in-halve-finale-league-cup-eerste-goal-voor-manchester-united",
     "type": "article",
-    "title": "Weghorst maakt in League Cup-duel eerste doelpunt voor Manchester United",
+    "title": "Weghorst maakt in halve finale League Cup eerste goal voor Manchester United",
     "subtitle": null,
     "published_at": "2023-01-25T21:59:36+01:00",
-    "updated_at": "2023-01-25T22:05:16+01:00",
+    "updated_at": "2023-01-25T22:14:33+01:00",
     "media_id": "gxdxfp3ag0w9",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6248533/weghorst-maakt-in-league-cup-duel-eerste-doelpunt-voor-manchester-united.html",
+    "url": "/voetbal/6248533/weghorst-maakt-in-halve-finale-league-cup-eerste-goal-voor-manchester-united.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +144,7 @@
     "title": "Dode en meerdere gewonden door aanval met machete in Spaanse kerken",
     "subtitle": null,
     "published_at": "2023-01-25T20:59:36+01:00",
-    "updated_at": "2023-01-25T22:01:18+01:00",
+    "updated_at": "2023-01-25T22:07:39+01:00",
     "media_id": "x29xds5asp95",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6248519/na-mestmisser-weet-adema-dat-er-voor-boeren-niets-meer-te-halen-valt-in-brussel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248514,
-    "slug": "film-over-leven-van-madonna-voorlopig-van-de-baan-vanwege-wereldtour",
-    "type": "article",
-    "title": "Film over leven van Madonna voorlopig van de baan vanwege wereldtour",
-    "subtitle": null,
-    "published_at": "2023-01-25T18:43:27+01:00",
-    "updated_at": "2023-01-25T18:43:29+01:00",
-    "media_id": "x3cxah8abxmt",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6248514/film-over-leven-van-madonna-voorlopig-van-de-baan-vanwege-wereldtour.html",
     "open_new_window": false,
     "partner": null
   }
