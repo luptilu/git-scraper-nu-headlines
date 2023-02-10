@@ -1,5 +1,74 @@
 [
   {
+    "id": 6250536,
+    "slug": "stelling-er-moet-een-verbod-op-houtkachels-komen",
+    "type": "article",
+    "title": "Stelling: Er moet een verbod op houtkachels komen",
+    "subtitle": null,
+    "published_at": "2023-02-10T07:04:55+01:00",
+    "updated_at": "2023-02-10T07:04:56+01:00",
+    "media_id": "tjzxyobaua5x",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6250536/stelling-er-moet-een-verbod-op-houtkachels-komen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6250647,
+    "slug": "alec-baldwin-ook-door-familie-doodgeschoten-cameravrouw-aangeklaagd",
+    "type": "article",
+    "title": "Alec Baldwin ook door familie doodgeschoten cameravrouw aangeklaagd",
+    "subtitle": null,
+    "published_at": "2023-02-10T07:02:48+01:00",
+    "updated_at": "2023-02-10T07:02:49+01:00",
+    "media_id": "g6xxhpxahjs9",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6250647/alec-baldwin-ook-door-familie-doodgeschoten-cameravrouw-aangeklaagd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6250643,
+    "slug": "kudus-voelt-eindelijk-vertrouwen-bij-ajax-ik-kan-vrijuit-spelen",
+    "type": "article",
+    "title": "Kudus voelt eindelijk vertrouwen bij Ajax: 'Ik kan vrijuit spelen'",
+    "subtitle": null,
+    "published_at": "2023-02-10T06:58:27+01:00",
+    "updated_at": "2023-02-10T06:58:28+01:00",
+    "media_id": "5l6xunhaccvl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6250643/kudus-voelt-eindelijk-vertrouwen-bij-ajax-ik-kan-vrijuit-spelen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250646,
     "slug": "koning-begrijpt-behoefte-aan-slavernijexcuses-maar-spreekt-ze-zelf-niet-uit",
     "type": "article",
@@ -72,11 +141,11 @@
     "id": 6250582,
     "slug": "aantal-grotere-bedrijven-in-nederland-neemt-voor-het-eerst-in-jaren-af",
     "type": "article",
-    "title": "Aantal grotere bedrijven in Nederland neemt voor het eerst in jaren af",
+    "title": "Aantal 'grotere' bedrijven in Nederland neemt voor het eerst in jaren af",
     "subtitle": null,
     "published_at": "2023-02-10T05:06:36+01:00",
-    "updated_at": "2023-02-10T05:06:37+01:00",
-    "media_id": "0zkxjecad2j1",
+    "updated_at": "2023-02-10T07:12:13+01:00",
+    "media_id": "wfvxvtvaajc1",
     "duration": null,
     "canonical_section": {
       "id": 99,
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6250630/heitinga-na-zwaarbevochten-winst-op-twente-heel-goed-voor-het-zelfvertrouwen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250626,
-    "slug": "roxeanne-tegenover-rachel-hazes-dit-kan-grote-gevolgen-hebben",
-    "type": "video",
-    "title": "Roxeanne tegenover Rachel Hazes: 'Dit kan grote gevolgen hebben'",
-    "subtitle": "Video",
-    "published_at": "2023-02-09T20:52:07+01:00",
-    "updated_at": "2023-02-10T06:39:07+01:00",
-    "media_id": "uakx9yja96zw",
-    "duration": "1:58",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6250626/roxeanne-tegenover-rachel-hazes-dit-kan-grote-gevolgen-hebben.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250625,
-    "slug": "ajax-wint-voetbalgevecht-van-fc-twente-en-staat-in-kwartfinales-beker",
-    "type": "article",
-    "title": "Ajax wint voetbalgevecht van FC Twente en staat in kwartfinales beker",
-    "subtitle": null,
-    "published_at": "2023-02-09T20:45:09+01:00",
-    "updated_at": "2023-02-09T23:18:01+01:00",
-    "media_id": "e6oxa2na5pug",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6250625/ajax-wint-voetbalgevecht-van-fc-twente-en-staat-in-kwartfinales-beker.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250623,
-    "slug": "syriers-juichen-op-moment-dat-gezin-onder-puin-vandaan-wordt-gehaald",
-    "type": "video",
-    "title": "Syriërs juichen op moment dat gezin onder puin vandaan wordt gehaald",
-    "subtitle": "Video",
-    "published_at": "2023-02-09T20:31:46+01:00",
-    "updated_at": "2023-02-09T20:43:43+01:00",
-    "media_id": "41bxzqja3136",
-    "duration": "0:40",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6250623/syriers-juichen-op-moment-dat-gezin-onder-puin-vandaan-wordt-gehaald.html",
     "open_new_window": false,
     "partner": null
   }
