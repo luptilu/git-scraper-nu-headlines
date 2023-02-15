@@ -1,5 +1,28 @@
 [
   {
+    "id": 6251352,
+    "slug": "alec-baldwin-gaat-ondanks-rechtszaken-deze-lente-verder-met-de-opnames-van-rust",
+    "type": "article",
+    "title": "Alec Baldwin gaat ondanks rechtszaken deze lente verder met de opnames van Rust",
+    "subtitle": null,
+    "published_at": "2023-02-15T10:15:36+01:00",
+    "updated_at": "2023-02-15T10:15:37+01:00",
+    "media_id": "4z3xmccanztn",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6251352/alec-baldwin-gaat-ondanks-rechtszaken-deze-lente-verder-met-de-opnames-van-rust.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251351,
     "slug": "musk-wil-het-bestuur-van-twitter-eind-dit-jaar-overdragen-aan-een-opvolger",
     "type": "article",
@@ -282,7 +305,7 @@
     "title": "Heineken verkoopt miljoenen hectoliters extra bier tegen hogere prijzen",
     "subtitle": null,
     "published_at": "2023-02-15T07:54:28+01:00",
-    "updated_at": "2023-02-15T09:03:19+01:00",
+    "updated_at": "2023-02-15T10:20:51+01:00",
     "media_id": "eh0x6phad3lz",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/uitgelicht/6251321/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251126,
-    "slug": "dotans-home-te-horen-in-netflix-film-dit-nummer-is-niet-meer-van-mijzelf",
-    "type": "article",
-    "title": "Dotans Home te horen in Netflix-film: 'Dit nummer is niet meer van mijzelf'",
-    "subtitle": null,
-    "published_at": "2023-02-15T05:03:08+01:00",
-    "updated_at": "2023-02-15T10:11:46+01:00",
-    "media_id": "2r2x99oagxev",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6251126/dotans-home-te-horen-in-netflix-film-dit-nummer-is-niet-meer-van-mijzelf.html",
     "open_new_window": false,
     "partner": null
   }
