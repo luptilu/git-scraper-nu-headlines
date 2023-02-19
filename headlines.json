@@ -1,5 +1,28 @@
 [
   {
+    "id": 6252020,
+    "slug": "law-order-acteur-richard-belzer-op-78-jarige-leeftijd-overleden",
+    "type": "article",
+    "title": "Law & Order-acteur Richard Belzer op 78-jarige leeftijd overleden",
+    "subtitle": null,
+    "published_at": "2023-02-19T20:33:27+01:00",
+    "updated_at": "2023-02-19T20:33:28+01:00",
+    "media_id": "oioxtyna99tn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772242,
+      "slug": "entertainment",
+      "type": "default",
+      "name": "Media en Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/entertainment/6252020/law-order-acteur-richard-belzer-op-78-jarige-leeftijd-overleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252019,
     "slug": "bezoeker-stoot-kunstwerk-van-40000-euro-omver",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6251995/femke-bol-verplettert-41-jaar-oud-wereldrecord-op-400-meter-indoor.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251745,
-    "slug": "nieuw-op-netflix-deze-films-en-series-verschenen-deze-week",
-    "type": "article",
-    "title": "Nieuw op Netflix: deze films en series verschenen deze week",
-    "subtitle": null,
-    "published_at": "2023-02-19T16:45:22+01:00",
-    "updated_at": "2023-02-19T16:45:23+01:00",
-    "media_id": "z3dx2waayknu",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6251745/nieuw-op-netflix-deze-films-en-series-verschenen-deze-week.html",
     "open_new_window": false,
     "partner": null
   }
