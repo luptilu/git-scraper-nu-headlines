@@ -1,5 +1,28 @@
 [
   {
+    "id": 6252374,
+    "slug": "rijimpressie-toyota-corolla",
+    "type": "video",
+    "title": "Rijimpressie: Toyota Corolla",
+    "subtitle": "Video",
+    "published_at": "2023-02-22T10:27:41+01:00",
+    "updated_at": "2023-02-22T10:27:42+01:00",
+    "media_id": "z4qx2loa9ud1",
+    "duration": "8:00",
+    "canonical_section": {
+      "id": 881569,
+      "slug": "auto",
+      "type": "default",
+      "name": "Onderweg",
+      "style": "nuzakelijk",
+      "media_id": "z66x61xaq79c",
+      "partner": null
+    },
+    "url": "/auto/6252374/rijimpressie-toyota-corolla.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252366,
     "slug": "carnavalsvierders-nemen-poetin-op-de-hak-met-praalwagens",
     "type": "video",
@@ -259,7 +282,7 @@
     "title": "Rugblessure blijft Schippers dwarszitten: 'Weet totaal niet of het goed komt'",
     "subtitle": null,
     "published_at": "2023-02-22T07:21:42+01:00",
-    "updated_at": "2023-02-22T07:27:43+01:00",
+    "updated_at": "2023-02-22T10:24:53+01:00",
     "media_id": "zyqx2araphst",
     "duration": null,
     "canonical_section": {
@@ -374,7 +397,7 @@
     "title": "Carice en Halina zijn open over privéleven, maar alleen als ze dat zelf willen",
     "subtitle": null,
     "published_at": "2023-02-22T06:16:07+01:00",
-    "updated_at": "2023-02-22T06:16:08+01:00",
+    "updated_at": "2023-02-22T10:26:28+01:00",
     "media_id": "unmx7xdao3ch",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6252279/defensie-stelt-oeigoerse-militair-wiens-familie-vastzat-in-china-op-non-actief.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252338,
-    "slug": "vs-akkoord-met-uitlevering-peruaanse-oud-president-toledo",
-    "type": "article",
-    "title": "VS akkoord met uitlevering Peruaanse oud-president Toledo",
-    "subtitle": null,
-    "published_at": "2023-02-22T05:59:23+01:00",
-    "updated_at": "2023-02-22T06:24:18+01:00",
-    "media_id": "g0oxjcja78ct",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6252338/vs-akkoord-met-uitlevering-peruaanse-oud-president-toledo.html",
     "open_new_window": false,
     "partner": null
   }
