@@ -1,13 +1,13 @@
 [
   {
-    "id": 6256766,
-    "slug": "van-aert-klopt-van-der-poel-en-pogacar-in-prachtige-titanenstrijd-e3-prijs",
+    "id": 6256758,
+    "slug": "roglic-houdt-de-macht-in-catalonie-door-evenepoel-te-verslaan-op-loodzware-klim",
     "type": "article",
-    "title": "Van Aert klopt Van der Poel en Pogacar in prachtige titanenstrijd E3 Prijs",
+    "title": "Roglic houdt de macht in Catalonië door Evenepoel te verslaan op loodzware klim",
     "subtitle": null,
-    "published_at": "2023-03-24T17:10:59+01:00",
-    "updated_at": "2023-03-24T17:11:04+01:00",
-    "media_id": "dtdxcmzak9fl",
+    "published_at": "2023-03-24T17:20:31+01:00",
+    "updated_at": "2023-03-24T17:35:26+01:00",
+    "media_id": "anoxahyaw3p7",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -18,7 +18,99 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6256766/van-aert-klopt-van-der-poel-en-pogacar-in-prachtige-titanenstrijd-e3-prijs.html",
+    "url": "/wielrennen/6256758/roglic-houdt-de-macht-in-catalonie-door-evenepoel-te-verslaan-op-loodzware-klim.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6256764,
+    "slug": "netflix-maakt-vijfde-en-laatste-seizoen-van-dramaserie-you",
+    "type": "article",
+    "title": "Netflix maakt vijfde en laatste seizoen van dramaserie You",
+    "subtitle": null,
+    "published_at": "2023-03-24T17:18:15+01:00",
+    "updated_at": "2023-03-24T17:18:16+01:00",
+    "media_id": "dosxp3uav7gd",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6256764/netflix-maakt-vijfde-en-laatste-seizoen-van-dramaserie-you.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6256763,
+    "slug": "rtl-en-kro-ncrv-ruzien-in-rechtbank-over-kees-documentaire",
+    "type": "article",
+    "title": "RTL en KRO-NCRV ruziën in rechtbank over Kees-documentaire",
+    "subtitle": null,
+    "published_at": "2023-03-24T17:13:45+01:00",
+    "updated_at": "2023-03-24T17:13:46+01:00",
+    "media_id": "3fwx18tacu17",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6256763/rtl-en-kro-ncrv-ruzien-in-rechtbank-over-kees-documentaire.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6256767,
+    "slug": "prorail-begint-met-uitgraven-dassenburcht-onder-spoor-bij-esch",
+    "type": "video",
+    "title": "ProRail begint met uitgraven dassenburcht onder spoor bij Esch",
+    "subtitle": "Video",
+    "published_at": "2023-03-24T17:13:29+01:00",
+    "updated_at": "2023-03-24T17:13:31+01:00",
+    "media_id": "hh8xha8agjdb",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6256767/prorail-begint-met-uitgraven-dassenburcht-onder-spoor-bij-esch.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6256766,
+    "slug": "van-aert-klopt-van-der-poel-en-pogacar-in-prachtige-titanenstrijd-in-e3-prijs",
+    "type": "article",
+    "title": "Van Aert klopt Van der Poel en Pogacar in prachtige titanenstrijd in E3 Prijs",
+    "subtitle": null,
+    "published_at": "2023-03-24T17:10:59+01:00",
+    "updated_at": "2023-03-24T17:33:16+01:00",
+    "media_id": "xrbxk14agebh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6256766/van-aert-klopt-van-der-poel-en-pogacar-in-prachtige-titanenstrijd-in-e3-prijs.html",
     "open_new_window": false,
     "partner": null
   },
@@ -282,7 +374,7 @@
     "title": "Leonie ter Braak volgt Chantal Janzen op als presentator ballonnenshow",
     "subtitle": null,
     "published_at": "2023-03-24T14:22:10+01:00",
-    "updated_at": "2023-03-24T17:08:26+01:00",
+    "updated_at": "2023-03-24T17:14:45+01:00",
     "media_id": "hm9xob6at4u4",
     "duration": null,
     "canonical_section": {
@@ -364,98 +456,6 @@
       "partner": null
     },
     "url": "/wetenschap/6256722/grote-asteroide-scheert-zaterdag-zichtbaar-langs-de-aarde.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256720,
-    "slug": "zorgen-op-europese-beurzen-over-stabiliteit-bankensector-blijven-groot",
-    "type": "article",
-    "title": "Zorgen op Europese beurzen over stabiliteit bankensector blijven groot",
-    "subtitle": null,
-    "published_at": "2023-03-24T13:26:00+01:00",
-    "updated_at": "2023-03-24T13:26:02+01:00",
-    "media_id": "94xxnjpaaem9",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6256720/zorgen-op-europese-beurzen-over-stabiliteit-bankensector-blijven-groot.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256714,
-    "slug": "zwarte-cobra-vrijgesproken-van-dubbele-moordopdracht-in-1993",
-    "type": "article",
-    "title": "'Zwarte Cobra' vrijgesproken van dubbele moordopdracht in 1993",
-    "subtitle": null,
-    "published_at": "2023-03-24T13:08:30+01:00",
-    "updated_at": "2023-03-24T14:42:11+01:00",
-    "media_id": "2iwxeocasizz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6256714/zwarte-cobra-vrijgesproken-van-dubbele-moordopdracht-in-1993.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256717,
-    "slug": "indier-in-vliegtuigje-filmt-kort-na-opstijgen-crash-op-woning",
-    "type": "video",
-    "title": "Indiër in vliegtuigje filmt kort na opstijgen crash op woning",
-    "subtitle": "Video",
-    "published_at": "2023-03-24T13:03:57+01:00",
-    "updated_at": "2023-03-24T13:27:12+01:00",
-    "media_id": "mnyxk6uap0zm",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6256717/indier-in-vliegtuigje-filmt-kort-na-opstijgen-crash-op-woning.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256709,
-    "slug": "tiktok-directeur-shou-zi-chew-stapt-uit-de-schaduw-voor-amerikaanse-senaat",
-    "type": "article",
-    "title": "TikTok-directeur Shou Zi Chew stapt uit de schaduw voor Amerikaanse Senaat",
-    "subtitle": null,
-    "published_at": "2023-03-24T12:46:18+01:00",
-    "updated_at": "2023-03-24T14:44:06+01:00",
-    "media_id": "o8wx1l1a0iga",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6256709/tiktok-directeur-shou-zi-chew-stapt-uit-de-schaduw-voor-amerikaanse-senaat.html",
     "open_new_window": false,
     "partner": null
   }
