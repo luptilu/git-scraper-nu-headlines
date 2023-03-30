@@ -1,5 +1,28 @@
 [
   {
+    "id": 6257450,
+    "slug": "aex-voor-het-eerst-sinds-bankenonrust-boven-de-750-punten",
+    "type": "article",
+    "title": "AEX voor het eerst sinds bankenonrust boven de 750 punten",
+    "subtitle": null,
+    "published_at": "2023-03-30T12:32:56+02:00",
+    "updated_at": "2023-03-30T12:32:57+02:00",
+    "media_id": "ijgx3g0ap6g8",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6257450/aex-voor-het-eerst-sinds-bankenonrust-boven-de-750-punten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257448,
     "slug": "eu-wil-vanaf-2030-meer-gebruikmaken-van-duurzame-energie",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Wat je moet doen als je slachtoffer van een groot datalek bent",
     "subtitle": null,
     "published_at": "2023-03-30T12:27:08+02:00",
-    "updated_at": "2023-03-30T12:27:11+02:00",
+    "updated_at": "2023-03-30T12:32:21+02:00",
     "media_id": "tixx4dsawakj",
     "duration": null,
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "Aïcha Marghadi haalt fel uit naar Tom Egbers en Jack van Gelder",
     "subtitle": null,
     "published_at": "2023-03-30T10:39:57+02:00",
-    "updated_at": "2023-03-30T12:29:10+02:00",
+    "updated_at": "2023-03-30T12:29:41+02:00",
     "media_id": "6qoxbxya6rhc",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6257407/we-betalen-gemiddeld-minder-hondenbelasting-in-ons-land.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257381,
-    "slug": "perez-gaat-de-strijd-bij-red-bull-nooit-winnen",
-    "type": "audio",
-    "title": "'Pérez gaat de strijd bij Red Bull nooit winnen'",
-    "subtitle": "Podcast De Boordradio",
-    "published_at": "2023-03-30T09:28:19+02:00",
-    "updated_at": "2023-03-30T09:28:23+02:00",
-    "media_id": "d7txn41aiq2x",
-    "duration": null,
-    "canonical_section": {
-      "id": 1776659,
-      "slug": "de-boordradio",
-      "type": "default",
-      "name": "De Boordradio",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/de-boordradio/6257381/perez-gaat-de-strijd-bij-red-bull-nooit-winnen.html",
     "open_new_window": false,
     "partner": null
   }
