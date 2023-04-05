@@ -1,5 +1,28 @@
 [
   {
+    "id": 6258240,
+    "slug": "nieuwe-klap-blijft-bouw-bespaard-rekenmethode-stikstof-niet-aangescherpt",
+    "type": "article",
+    "title": "Nieuwe klap blijft bouw bespaard: rekenmethode stikstof niet aangescherpt",
+    "subtitle": null,
+    "published_at": "2023-04-05T10:31:28+02:00",
+    "updated_at": "2023-04-05T10:31:30+02:00",
+    "media_id": "t4uxzv0aznxw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778778,
+      "slug": "stikstof",
+      "type": "default",
+      "name": "Stikstof",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stikstof/6258240/nieuwe-klap-blijft-bouw-bespaard-rekenmethode-stikstof-niet-aangescherpt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258248,
     "slug": "van-baarle-is-hersteld-van-blessure-en-keert-jaar-na-zege-terug-in-parijs-roubaix",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "KLM wint rechtszaak: aantal vluchten van en naar Schiphol mag niet omlaag",
     "subtitle": null,
     "published_at": "2023-04-05T10:05:07+02:00",
-    "updated_at": "2023-04-05T10:17:01+02:00",
+    "updated_at": "2023-04-05T10:34:33+02:00",
     "media_id": "jwrxfz9as2re",
     "duration": null,
     "canonical_section": {
@@ -162,12 +185,12 @@
   },
   {
     "id": 6258232,
-    "slug": "israelische-politie-belaagd-met-vuurwerk-bij-inval-al-aqsamoskee",
+    "slug": "israelische-politie-doet-inval-bij-al-aqsamoskee-in-jeruzalem",
     "type": "video",
-    "title": "Israëlische politie belaagd met vuurwerk bij inval Al Aqsamoskee",
+    "title": "Israëlische politie doet inval bij Al Aqsamoskee in Jeruzalem",
     "subtitle": "Video",
     "published_at": "2023-04-05T08:12:20+02:00",
-    "updated_at": "2023-04-05T08:12:21+02:00",
+    "updated_at": "2023-04-05T10:25:00+02:00",
     "media_id": "sllxhyya58gm",
     "duration": "0:45",
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6258232/israelische-politie-belaagd-met-vuurwerk-bij-inval-al-aqsamoskee.html",
+    "url": "/videos/6258232/israelische-politie-doet-inval-bij-al-aqsamoskee-in-jeruzalem.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6258113/nick-simon-nemen-afscheid-in-ahoy-maar-zien-we-ze-echt-niet-meer-samen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258223,
-    "slug": "weerbericht-lente-wil-nog-niet-echt-ontluiken-met-zonnige-maar-frisse-dag",
-    "type": "article",
-    "title": "Weerbericht: Lente wil nog niet echt ontluiken met zonnige maar frisse dag",
-    "subtitle": null,
-    "published_at": "2023-04-05T05:52:43+02:00",
-    "updated_at": "2023-04-05T06:53:48+02:00",
-    "media_id": "ow4x0p9a155w",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6258223/weerbericht-lente-wil-nog-niet-echt-ontluiken-met-zonnige-maar-frisse-dag.html",
     "open_new_window": false,
     "partner": null
   }
