@@ -1,5 +1,28 @@
 [
   {
+    "id": 6260396,
+    "slug": "we-laten-ons-sinds-corona-vaker-testen-op-soas-vooral-meer-gonorroegevallen",
+    "type": "article",
+    "title": "We laten ons sinds corona vaker testen op soa's, vooral meer gonorroegevallen",
+    "subtitle": null,
+    "published_at": "2023-04-21T13:16:21+02:00",
+    "updated_at": "2023-04-21T13:16:23+02:00",
+    "media_id": "nhvxn36azwfo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6260396/we-laten-ons-sinds-corona-vaker-testen-op-soas-vooral-meer-gonorroegevallen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260421,
     "slug": "gestolen-auto-joshua-nolet-teruggevonden-dankzij-tip-via-sociale-media",
     "type": "article",
@@ -374,7 +397,7 @@
     "title": "Eerste dag van meivakantie verloopt dit keer wél soepel op Schiphol",
     "subtitle": null,
     "published_at": "2023-04-21T10:21:49+02:00",
-    "updated_at": "2023-04-21T10:34:41+02:00",
+    "updated_at": "2023-04-21T13:22:00+02:00",
     "media_id": "sx1xddra32i8",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6260392/nieuwe-tarieven-schiphol-zijn-volgens-toezichthouder-niet-onredelijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260387,
-    "slug": "spurs-directeur-paratici-neemt-ontslag-omdat-schorsing-wegens-fraude-blijft-staan",
-    "type": "article",
-    "title": "Spurs-directeur Paratici neemt ontslag omdat schorsing wegens fraude blijft staan",
-    "subtitle": null,
-    "published_at": "2023-04-21T10:05:33+02:00",
-    "updated_at": "2023-04-21T10:17:37+02:00",
-    "media_id": "misx4lba3ez8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6260387/spurs-directeur-paratici-neemt-ontslag-omdat-schorsing-wegens-fraude-blijft-staan.html",
     "open_new_window": false,
     "partner": null
   }
