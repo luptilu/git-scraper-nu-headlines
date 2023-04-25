@@ -1,5 +1,51 @@
 [
   {
+    "id": 6260938,
+    "slug": "arsenal-coach-arteta-denkt-niet-dat-topper-tegen-manchester-city-titelstrijd-beslist",
+    "type": "article",
+    "title": "Arsenal-coach Arteta denkt niet dat topper tegen Manchester City titelstrijd beslist",
+    "subtitle": null,
+    "published_at": "2023-04-25T13:01:51+02:00",
+    "updated_at": "2023-04-25T13:01:52+02:00",
+    "media_id": "6hkx46balpuk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6260938/arsenal-coach-arteta-denkt-niet-dat-topper-tegen-manchester-city-titelstrijd-beslist.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260934,
+    "slug": "shakira-door-billboard-uitgeroepen-tot-eerste-latin-woman-of-the-year",
+    "type": "article",
+    "title": "Shakira door Billboard uitgeroepen tot eerste Latin Woman of the Year",
+    "subtitle": null,
+    "published_at": "2023-04-25T12:41:36+02:00",
+    "updated_at": "2023-04-25T12:41:37+02:00",
+    "media_id": "srfxsbua95ni",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6260934/shakira-door-billboard-uitgeroepen-tot-eerste-latin-woman-of-the-year.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260929,
     "slug": "ziekteverzuim-in-de-zorg-daalt-eindelijk-weer",
     "type": "article",
@@ -98,8 +144,8 @@
     "title": "Joe Biden gaat definitief voor tweede termijn als Amerikaanse president",
     "subtitle": null,
     "published_at": "2023-04-25T12:03:25+02:00",
-    "updated_at": "2023-04-25T12:32:28+02:00",
-    "media_id": "pavx32aakvn6",
+    "updated_at": "2023-04-25T13:00:26+02:00",
+    "media_id": "xqqx0noaw0mx",
     "duration": null,
     "canonical_section": {
       "id": 1771436,
@@ -328,7 +374,7 @@
     "title": "Nederlands iDEAL moet het Europese antwoord op creditcard worden",
     "subtitle": null,
     "published_at": "2023-04-25T10:26:34+02:00",
-    "updated_at": "2023-04-25T12:04:02+02:00",
+    "updated_at": "2023-04-25T12:48:06+02:00",
     "media_id": "r24xqe5au96c",
     "duration": null,
     "canonical_section": {
@@ -351,7 +397,7 @@
     "title": "Grote supermarktketens maken nog steeds vaak fouten op de kassabon",
     "subtitle": null,
     "published_at": "2023-04-25T09:57:12+02:00",
-    "updated_at": "2023-04-25T11:00:00+02:00",
+    "updated_at": "2023-04-25T13:12:47+02:00",
     "media_id": "l0tx59iazm9h",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6260609/na-26-jaar-komt-er-een-einde-aan-cold-case-groningse-psycholoog-els-slurink.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260894,
-    "slug": "meerdink-dankzij-privejet-uitblinker-in-youth-league-finale-hectische-24-uur",
-    "type": "article",
-    "title": "Meerdink dankzij privéjet uitblinker in Youth League-finale: 'Hectische 24 uur'",
-    "subtitle": null,
-    "published_at": "2023-04-25T08:53:14+02:00",
-    "updated_at": "2023-04-25T10:52:16+02:00",
-    "media_id": "e03xzp0amofw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6260894/meerdink-dankzij-privejet-uitblinker-in-youth-league-finale-hectische-24-uur.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260893,
-    "slug": "koningsdag-wordt-kouder-dan-nieuwjaarsdag",
-    "type": "article",
-    "title": "Koningsdag wordt kouder dan Nieuwjaarsdag",
-    "subtitle": null,
-    "published_at": "2023-04-25T08:25:28+02:00",
-    "updated_at": "2023-04-25T08:25:30+02:00",
-    "media_id": "5f1xrzgafyhx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6260893/koningsdag-wordt-kouder-dan-nieuwjaarsdag.html",
     "open_new_window": false,
     "partner": null
   }
