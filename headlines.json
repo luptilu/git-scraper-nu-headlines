@@ -1,12 +1,35 @@
 [
   {
+    "id": 6261941,
+    "slug": "wiegman-ziet-ook-engelse-kirby-wegvallen-voor-wk-door-knieblessure",
+    "type": "article",
+    "title": "Wiegman ziet ook Engelse Kirby wegvallen voor WK door knieblessure",
+    "subtitle": null,
+    "published_at": "2023-05-02T18:34:44+02:00",
+    "updated_at": "2023-05-02T18:34:45+02:00",
+    "media_id": "ea3xglmammzo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6261941/wiegman-ziet-ook-engelse-kirby-wegvallen-voor-wk-door-knieblessure.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261943,
     "slug": "kuijt-maakt-ruim-twee-jaar-na-vertrek-bij-feyenoord-opvallende-rentree-als-stagiair",
     "type": "article",
     "title": "Kuijt maakt ruim twee jaar na vertrek bij Feyenoord opvallende rentree als stagiair",
     "subtitle": null,
     "published_at": "2023-05-02T18:33:16+02:00",
-    "updated_at": "2023-05-02T18:33:18+02:00",
+    "updated_at": "2023-05-02T18:41:48+02:00",
     "media_id": "2nwx14famtx6",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6261903/jonker-blij-met-loting-nations-league-bijzonder-om-tegen-wiegman-te-spelen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261901,
-    "slug": "herstelde-relatie-patty-brard-met-dochter-priscilla-beter-dan-ooit",
-    "type": "article",
-    "title": "Herstelde relatie Patty Brard met dochter Priscilla 'beter dan ooit'",
-    "subtitle": null,
-    "published_at": "2023-05-02T15:06:46+02:00",
-    "updated_at": "2023-05-02T15:17:01+02:00",
-    "media_id": "0w0x6n7a0pdv",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6261901/herstelde-relatie-patty-brard-met-dochter-priscilla-beter-dan-ooit.html",
     "open_new_window": false,
     "partner": null
   }
