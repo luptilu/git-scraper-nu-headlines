@@ -1,12 +1,35 @@
 [
   {
+    "id": 6263802,
+    "slug": "frenkie-de-jong-viert-landstitel-fc-barcelona-met-busrit-door-de-stad",
+    "type": "article",
+    "title": "Frenkie de Jong viert landstitel FC Barcelona met busrit door de stad",
+    "subtitle": "In beeld",
+    "published_at": "2023-05-15T19:43:33+02:00",
+    "updated_at": "2023-05-15T19:43:35+02:00",
+    "media_id": "ja7xuina37ne",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6263802/frenkie-de-jong-viert-landstitel-fc-barcelona-met-busrit-door-de-stad.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6263798,
     "slug": "noorse-renner-rijdt-in-giro-wel-door-met-corona-anders-blijft-er-niemand-over",
     "type": "article",
     "title": "Noorse renner rijdt in Giro wel door met corona: 'Anders blijft er niemand over'",
     "subtitle": null,
     "published_at": "2023-05-15T19:17:39+02:00",
-    "updated_at": "2023-05-15T19:17:40+02:00",
+    "updated_at": "2023-05-15T19:28:30+02:00",
     "media_id": "jarxxitap3rh",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6263765/38-vmbo-leerlingen-moeten-examen-duits-opnieuw-doen-door-verbrande-broodjes.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6263763,
-    "slug": "duitse-gasleveranciers-onderzocht-om-mogelijk-misbruik-prijsplafond",
-    "type": "article",
-    "title": "Duitse gasleveranciers onderzocht om mogelijk misbruik prijsplafond",
-    "subtitle": null,
-    "published_at": "2023-05-15T16:05:33+02:00",
-    "updated_at": "2023-05-15T16:07:50+02:00",
-    "media_id": "nq0xxbyal8yg",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6263763/duitse-gasleveranciers-onderzocht-om-mogelijk-misbruik-prijsplafond.html",
     "open_new_window": false,
     "partner": null
   }
