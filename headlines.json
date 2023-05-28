@@ -1,5 +1,74 @@
 [
   {
+    "id": 6265623,
+    "slug": "erdogan-viert-voorlopige-winst-turkse-verkiezingen",
+    "type": "video",
+    "title": "Erdogan viert voorlopige winst Turkse verkiezingen",
+    "subtitle": "Video",
+    "published_at": "2023-05-28T20:42:16+02:00",
+    "updated_at": "2023-05-28T20:42:17+02:00",
+    "media_id": "4m2x5yjaoy6y",
+    "duration": "0:41",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6265623/erdogan-viert-voorlopige-winst-turkse-verkiezingen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6265622,
+    "slug": "teambaas-plugge-trots-op-roglic-al-sloeg-ik-gisteren-nog-salontafel-in-tweeen",
+    "type": "article",
+    "title": "Teambaas Plugge trots op Roglic: 'Al sloeg ik gisteren nog salontafel in tweeën'",
+    "subtitle": null,
+    "published_at": "2023-05-28T20:41:16+02:00",
+    "updated_at": "2023-05-28T20:41:17+02:00",
+    "media_id": "cmyxf4uamwfh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6265622/teambaas-plugge-trots-op-roglic-al-sloeg-ik-gisteren-nog-salontafel-in-tweeen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6265621,
+    "slug": "spelers-psv-waren-in-shock-door-vertrek-van-nistelrooij-nog-nooit-meegemaakt",
+    "type": "article",
+    "title": "Spelers PSV waren in shock door vertrek Van Nistelrooij: 'Nog nooit meegemaakt'",
+    "subtitle": null,
+    "published_at": "2023-05-28T20:16:57+02:00",
+    "updated_at": "2023-05-28T20:36:58+02:00",
+    "media_id": "awdxpu0awh96",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6265621/spelers-psv-waren-in-shock-door-vertrek-van-nistelrooij-nog-nooit-meegemaakt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6265572,
     "slug": "defensie-expert-ko-colijn-over-de-invloed-van-f-16s-boven-oekraine",
     "type": "article",
@@ -29,7 +98,7 @@
     "title": "Alonso geeft hoop op wereldtitel nog niet op: 'Kan ook met een mindere auto'",
     "subtitle": null,
     "published_at": "2023-05-28T20:00:19+02:00",
-    "updated_at": "2023-05-28T20:00:53+02:00",
+    "updated_at": "2023-05-28T20:30:16+02:00",
     "media_id": "0laxbp0as7ui",
     "duration": null,
     "canonical_section": {
@@ -75,8 +144,8 @@
     "title": "Leicester City degradeert zeven jaar na landstitel, ook Leeds United daalt af",
     "subtitle": null,
     "published_at": "2023-05-28T19:31:56+02:00",
-    "updated_at": "2023-05-28T19:51:31+02:00",
-    "media_id": "pl4xow5a2jgr",
+    "updated_at": "2023-05-28T20:24:48+02:00",
+    "media_id": "6mtxpbsaqak1",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -144,7 +213,7 @@
     "title": "Ajax-speler Berghuis geeft omstander ferme klap bij verlaten stadion FC Twente",
     "subtitle": null,
     "published_at": "2023-05-28T18:40:20+02:00",
-    "updated_at": "2023-05-28T19:48:51+02:00",
+    "updated_at": "2023-05-28T20:25:42+02:00",
     "media_id": "ucmxluoax6vs",
     "duration": null,
     "canonical_section": {
@@ -167,8 +236,8 @@
     "title": "Roglic bezorgt Jumbo-Visma eerste Giro-zege, Cavendish wint slotrit in Rome",
     "subtitle": null,
     "published_at": "2023-05-28T18:31:04+02:00",
-    "updated_at": "2023-05-28T19:06:32+02:00",
-    "media_id": "o7xxu63avvgs",
+    "updated_at": "2023-05-28T20:39:36+02:00",
+    "media_id": "39bxfsoajwwl",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -185,13 +254,13 @@
   },
   {
     "id": 6265606,
-    "slug": "van-kalmthout-tikt-palou-in-de-muur-in-spannende-indy-500",
+    "slug": "van-kalmthout-bezig-aan-inhaalrace-bij-indy-500-na-incident-in-pits",
     "type": "article",
-    "title": "Van Kalmthout tikt Palou in de muur in spannende Indy 500",
+    "title": "Van Kalmthout bezig aan inhaalrace bij Indy 500 na incident in pits",
     "subtitle": "Liveblog",
     "published_at": "2023-05-28T18:30:22+02:00",
-    "updated_at": "2023-05-28T19:58:40+02:00",
-    "media_id": "m1vx3d3aw17x",
+    "updated_at": "2023-05-28T20:29:57+02:00",
+    "media_id": "nx1xeiyaw1x0",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -202,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6265606/van-kalmthout-tikt-palou-in-de-muur-in-spannende-indy-500.html",
+    "url": "/sport-overig/6265606/van-kalmthout-bezig-aan-inhaalrace-bij-indy-500-na-incident-in-pits.html",
     "open_new_window": false,
     "partner": null
   },
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6265594/heitinga-verwacht-komende-week-eindelijk-nieuws-over-zijn-toekomst-bij-ajax.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265234,
-    "slug": "wat-wil-jij-weten-over-de-grand-prix-van-monaco",
-    "type": "article",
-    "title": "Wat wil jij weten over de Grand Prix van Monaco?",
-    "subtitle": null,
-    "published_at": "2023-05-28T16:56:31+02:00",
-    "updated_at": "2023-05-28T17:34:55+02:00",
-    "media_id": "f67xk6oawcxb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP Monaco",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6265234/wat-wil-jij-weten-over-de-grand-prix-van-monaco.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265586,
-    "slug": "verstappen-houdt-hoofd-koel-in-natte-slotfase-en-wint-gp-monaco",
-    "type": "article",
-    "title": "Verstappen houdt hoofd koel in natte slotfase en wint GP Monaco",
-    "subtitle": null,
-    "published_at": "2023-05-28T16:52:45+02:00",
-    "updated_at": "2023-05-28T17:11:20+02:00",
-    "media_id": "g55xgg5ah1ac",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP Monaco",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6265586/verstappen-houdt-hoofd-koel-in-natte-slotfase-en-wint-gp-monaco.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265135,
-    "slug": "simons-samen-met-douvikas-topscorer-eredivisie-dankzij-goals-tegen-az",
-    "type": "article",
-    "title": "Simons samen met Douvikas topscorer Eredivisie dankzij goals tegen AZ",
-    "subtitle": null,
-    "published_at": "2023-05-28T16:40:32+02:00",
-    "updated_at": "2023-05-28T16:49:05+02:00",
-    "media_id": "zrrx718afpzh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6265135/simons-samen-met-douvikas-topscorer-eredivisie-dankzij-goals-tegen-az.html",
     "open_new_window": false,
     "partner": null
   }
