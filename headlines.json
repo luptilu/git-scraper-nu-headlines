@@ -1,5 +1,28 @@
 [
   {
+    "id": 6266607,
+    "slug": "miami-heat-voorkomt-met-comeback-nieuwe-zege-denver-nuggets-in-nba-finals",
+    "type": "article",
+    "title": "Miami Heat voorkomt met comeback nieuwe zege Denver Nuggets in NBA Finals",
+    "subtitle": null,
+    "published_at": "2023-06-05T08:25:24+02:00",
+    "updated_at": "2023-06-05T08:26:02+02:00",
+    "media_id": "9uex9rwalq5d",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6266607/miami-heat-voorkomt-met-comeback-nieuwe-zege-denver-nuggets-in-nba-finals.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266604,
     "slug": "honderden-concertbezoekers-rondom-johan-cruijff-arena-gestrand",
     "type": "video",
@@ -328,7 +351,7 @@
     "title": "Maandagochtend geen treinen in en rond Amsterdam, veel reizigers gestrand",
     "subtitle": null,
     "published_at": "2023-06-05T05:31:22+02:00",
-    "updated_at": "2023-06-05T08:22:08+02:00",
+    "updated_at": "2023-06-05T08:28:55+02:00",
     "media_id": "z78x6q6alwqx",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6266588/zon-snelle-verstappen-in-spanje-is-slecht-nieuws-voor-concurrenten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266583,
-    "slug": "treinverkeer-in-en-rond-amsterdam-ook-maandagochtend-nog-ontregeld",
-    "type": "article",
-    "title": "Treinverkeer in en rond Amsterdam ook maandagochtend nog ontregeld",
-    "subtitle": null,
-    "published_at": "2023-06-05T00:28:20+02:00",
-    "updated_at": "2023-06-05T06:23:31+02:00",
-    "media_id": "t5jx2v6atzi6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6266583/treinverkeer-in-en-rond-amsterdam-ook-maandagochtend-nog-ontregeld.html",
     "open_new_window": false,
     "partner": null
   }
