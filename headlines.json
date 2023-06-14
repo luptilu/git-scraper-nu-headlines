@@ -1,5 +1,51 @@
 [
   {
+    "id": 6267930,
+    "slug": "gokkast-verdwijnt-uit-het-straatbeeld",
+    "type": "article",
+    "title": "Gokkast verdwijnt uit het straatbeeld",
+    "subtitle": null,
+    "published_at": "2023-06-14T11:17:24+02:00",
+    "updated_at": "2023-06-14T11:20:40+02:00",
+    "media_id": "uauxc26a65ks",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6267930/gokkast-verdwijnt-uit-het-straatbeeld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6267830,
+    "slug": "geld-uit-het-stopcontact-hoe-kan-het-dat-stroomprijzen-negatief-worden",
+    "type": "article",
+    "title": "Geld uit het stopcontact: hoe kan het dat stroomprijzen negatief worden?",
+    "subtitle": "NU+",
+    "published_at": "2023-06-14T11:16:51+02:00",
+    "updated_at": "2023-06-14T11:23:23+02:00",
+    "media_id": "e0wx1ksadhpn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772754,
+      "slug": "klimaat",
+      "type": "default",
+      "name": "Klimaat",
+      "style": "nuzakelijk",
+      "media_id": "kf4x3b2agsxg",
+      "partner": null
+    },
+    "url": "/klimaat/6267830/geld-uit-het-stopcontact-hoe-kan-het-dat-stroomprijzen-negatief-worden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267929,
     "slug": "mbappe-vindt-dat-spelers-direct-van-het-veld-moeten-stappen-bij-racisme",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Ajax bevestigt komst hoofdtrainer Steijn: 'Hij is klaar voor de stap omhoog'",
     "subtitle": null,
     "published_at": "2023-06-14T11:03:36+02:00",
-    "updated_at": "2023-06-14T11:06:31+02:00",
+    "updated_at": "2023-06-14T11:19:35+02:00",
     "media_id": "tq4xwnva1amk",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Romy Monteiro en Jasper Suyk gaan 'voorlopig zonder elkaar verder'",
     "subtitle": null,
     "published_at": "2023-06-14T11:01:57+02:00",
-    "updated_at": "2023-06-14T11:11:43+02:00",
+    "updated_at": "2023-06-14T11:25:52+02:00",
     "media_id": "vwoxcr7ato79",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "Dubbel zoveel mensen op de vlucht als in 2012, vooral uit Oekraïne en Syrië",
     "subtitle": null,
     "published_at": "2023-06-14T10:30:59+02:00",
-    "updated_at": "2023-06-14T11:06:26+02:00",
+    "updated_at": "2023-06-14T11:12:53+02:00",
     "media_id": "0kxx3gsaiz9k",
     "duration": null,
     "canonical_section": {
@@ -185,12 +231,12 @@
   },
   {
     "id": 6267921,
-    "slug": "brit-beklimt-zuid-koreaanse-wolkenkrabber-zonder-uitrusting",
+    "slug": "brit-beklimt-zuid-koreaanse-wolkenkrabber-met-blote-handen",
     "type": "video",
-    "title": "Brit beklimt Zuid-Koreaanse wolkenkrabber zonder uitrusting",
+    "title": "Brit beklimt Zuid-Koreaanse wolkenkrabber met blote handen",
     "subtitle": "Video",
     "published_at": "2023-06-14T10:18:34+02:00",
-    "updated_at": "2023-06-14T10:18:36+02:00",
+    "updated_at": "2023-06-14T11:13:39+02:00",
     "media_id": "u3cxlj7aw4em",
     "duration": "0:37",
     "canonical_section": {
@@ -202,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6267921/brit-beklimt-zuid-koreaanse-wolkenkrabber-zonder-uitrusting.html",
+    "url": "/videos/6267921/brit-beklimt-zuid-koreaanse-wolkenkrabber-met-blote-handen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -254,12 +300,12 @@
   },
   {
     "id": 6267825,
-    "slug": "stelling-onderwijs-moet-studenten-beter-begeleiden-bij-mentale-gezondheid",
+    "slug": "onderwijs-moet-studenten-beter-begeleiden-bij-mentale-gezondheid",
     "type": "article",
-    "title": "Stelling: Onderwijs moet studenten beter begeleiden bij mentale gezondheid",
+    "title": "Onderwijs moet studenten beter begeleiden bij mentale gezondheid",
     "subtitle": null,
     "published_at": "2023-06-14T09:06:21+02:00",
-    "updated_at": "2023-06-14T09:09:18+02:00",
+    "updated_at": "2023-06-14T11:13:32+02:00",
     "media_id": "jzhxttvaibi0",
     "duration": null,
     "canonical_section": {
@@ -271,18 +317,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/stelling/6267825/stelling-onderwijs-moet-studenten-beter-begeleiden-bij-mentale-gezondheid.html",
+    "url": "/stelling/6267825/onderwijs-moet-studenten-beter-begeleiden-bij-mentale-gezondheid.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6267905,
-    "slug": "shell-wil-met-nieuwe-strategie-vooral-aandeelhouders-pleasen",
+    "slug": "shell-wil-met-nieuwe-plannen-vooral-aandeelhouders-pleasen",
     "type": "article",
-    "title": "Shell wil met nieuwe strategie vooral aandeelhouders pleasen",
+    "title": "Shell wil met nieuwe plannen vooral aandeelhouders pleasen",
     "subtitle": null,
     "published_at": "2023-06-14T09:06:08+02:00",
-    "updated_at": "2023-06-14T10:10:11+02:00",
+    "updated_at": "2023-06-14T11:19:08+02:00",
     "media_id": "zd4xuoaa4kkv",
     "duration": null,
     "canonical_section": {
@@ -294,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6267905/shell-wil-met-nieuwe-strategie-vooral-aandeelhouders-pleasen.html",
+    "url": "/economie/6267905/shell-wil-met-nieuwe-plannen-vooral-aandeelhouders-pleasen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +351,7 @@
     "title": "NPO komt met eigen audioplatform: 'Mensen willen gegidst worden'",
     "subtitle": null,
     "published_at": "2023-06-14T09:02:52+02:00",
-    "updated_at": "2023-06-14T09:02:53+02:00",
+    "updated_at": "2023-06-14T11:25:32+02:00",
     "media_id": "akfx5jzaskqp",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6267901/ns-meldt-zich-op-de-valreep-ook-voor-internationaal-treinen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267900,
-    "slug": "rusland-blijft-oekraine-bestoken-met-raketten-zeker-zes-doden",
-    "type": "article",
-    "title": "Rusland blijft Oekraïne bestoken met raketten: zeker zes doden",
-    "subtitle": null,
-    "published_at": "2023-06-14T07:18:23+02:00",
-    "updated_at": "2023-06-14T10:03:35+02:00",
-    "media_id": "56nxtmpa2bxb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6267900/rusland-blijft-oekraine-bestoken-met-raketten-zeker-zes-doden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267896,
-    "slug": "bioscoopgangers-moeten-jaren-langer-wachten-op-nieuwe-avatar-films",
-    "type": "article",
-    "title": "Bioscoopgangers moeten jaren langer wachten op nieuwe Avatar-films",
-    "subtitle": null,
-    "published_at": "2023-06-14T06:52:13+02:00",
-    "updated_at": "2023-06-14T07:03:28+02:00",
-    "media_id": "t8xx1baafryr",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6267896/bioscoopgangers-moeten-jaren-langer-wachten-op-nieuwe-avatar-films.html",
     "open_new_window": false,
     "partner": null
   }
