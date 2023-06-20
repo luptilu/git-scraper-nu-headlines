@@ -1,5 +1,28 @@
 [
   {
+    "id": 6268866,
+    "slug": "zo-wordt-er-gezocht-naar-de-vermiste-titanic-onderzeeer",
+    "type": "video",
+    "title": "Zo wordt er gezocht naar de vermiste ‘Titanic-onderzeeër’",
+    "subtitle": "Explainer",
+    "published_at": "2023-06-20T16:44:32+02:00",
+    "updated_at": "2023-06-20T16:44:33+02:00",
+    "media_id": "lc2xn6mariiy",
+    "duration": "2:18",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6268866/zo-wordt-er-gezocht-naar-de-vermiste-titanic-onderzeeer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268854,
     "slug": "facebook-klokkenluider-we-lachen-om-de-metaverse-maar-gevaar-dreigt",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6268860,
-    "slug": "supermarkten-worstelen-met-nieuwe-regels-plastic-verpakkingen",
+    "slug": "supermarkten-worstelen-met-nieuwe-regels-voor-plastic-verpakkingen",
     "type": "article",
-    "title": "Supermarkten worstelen met nieuwe regels plastic verpakkingen",
+    "title": "Supermarkten worstelen met nieuwe regels voor plastic verpakkingen",
     "subtitle": null,
     "published_at": "2023-06-20T16:17:07+02:00",
-    "updated_at": "2023-06-20T16:17:14+02:00",
+    "updated_at": "2023-06-20T16:26:52+02:00",
     "media_id": "cuux3gwa3h78",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6268860/supermarkten-worstelen-met-nieuwe-regels-plastic-verpakkingen.html",
+    "url": "/economie/6268860/supermarkten-worstelen-met-nieuwe-regels-voor-plastic-verpakkingen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6268826/estland-eerste-oud-sovjetstaat-waar-mensen-van-gelijk-geslacht-mogen-trouwen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268819,
-    "slug": "openbaar-ministerie-eist-achttien-jaar-cel-in-amersfoortse-moordzaak-uit-1996",
-    "type": "article",
-    "title": "Openbaar Ministerie eist achttien jaar cel in Amersfoortse moordzaak uit 1996",
-    "subtitle": null,
-    "published_at": "2023-06-20T12:26:09+02:00",
-    "updated_at": "2023-06-20T12:26:11+02:00",
-    "media_id": "ndux6mmaxctd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6268819/openbaar-ministerie-eist-achttien-jaar-cel-in-amersfoortse-moordzaak-uit-1996.html",
     "open_new_window": false,
     "partner": null
   }
