@@ -1,51 +1,5 @@
 [
   {
-    "id": 6270950,
-    "slug": "elton-john-neemt-afscheid-van-het-podium-wil-op-het-hoogtepunt-stoppen",
-    "type": "article",
-    "title": "Elton John neemt afscheid van het podium: 'Wil op het hoogtepunt stoppen'",
-    "subtitle": "NU+",
-    "published_at": "2023-07-08T12:14:51+02:00",
-    "updated_at": "2023-07-08T12:14:52+02:00",
-    "media_id": "muqxtf2a658g",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6270950/elton-john-neemt-afscheid-van-het-podium-wil-op-het-hoogtepunt-stoppen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271504,
-    "slug": "topsprintster-richardson-gooit-pruik-af-en-pakt-nationale-titel-na-dopingstraf",
-    "type": "article",
-    "title": "Topsprintster Richardson gooit pruik af en pakt nationale titel na dopingstraf",
-    "subtitle": null,
-    "published_at": "2023-07-08T12:11:03+02:00",
-    "updated_at": "2023-07-08T12:11:04+02:00",
-    "media_id": "alfxokvaid06",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6271504/topsprintster-richardson-gooit-pruik-af-en-pakt-nationale-titel-na-dopingstraf.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
     "id": 6271501,
     "slug": "silverstone-stroomt-vol-voor-vrije-training-en-kwalificatie",
     "type": "article",
@@ -282,7 +236,7 @@
     "title": "Miljoenen kijkers voor journaals rondom val van kabinet-Rutte IV",
     "subtitle": null,
     "published_at": "2023-07-08T09:29:39+02:00",
-    "updated_at": "2023-07-08T12:12:34+02:00",
+    "updated_at": "2023-07-08T10:01:00+02:00",
     "media_id": "6yjx2iiaaga1",
     "duration": null,
     "canonical_section": {
@@ -456,6 +410,52 @@
       "partner": null
     },
     "url": "/videos/6271471/van-der-burg-vecht-tegen-tranen-ik-had-een-asieldeal-beloofd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271478,
+    "slug": "rutte-praat-willem-alexander-bij-koning-keert-eerder-terug-van-vakantie",
+    "type": "article",
+    "title": "Rutte praat Willem-Alexander bij, koning keert eerder terug van vakantie",
+    "subtitle": null,
+    "published_at": "2023-07-08T06:42:46+02:00",
+    "updated_at": "2023-07-08T07:36:30+02:00",
+    "media_id": "6yjx2iiaaga1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779274,
+      "slug": "val-kabinet",
+      "type": "default",
+      "name": "Val kabinet",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/val-kabinet/6271478/rutte-praat-willem-alexander-bij-koning-keert-eerder-terug-van-vakantie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271477,
+    "slug": "weerbericht-het-wordt-de-warmste-dag-van-het-jaar-tot-nu-toe",
+    "type": "article",
+    "title": "Weerbericht: Het wordt de warmste dag van het jaar tot nu toe",
+    "subtitle": null,
+    "published_at": "2023-07-08T06:10:25+02:00",
+    "updated_at": "2023-07-08T08:13:57+02:00",
+    "media_id": "3d5xo7ha6ubk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6271477/weerbericht-het-wordt-de-warmste-dag-van-het-jaar-tot-nu-toe.html",
     "open_new_window": false,
     "partner": null
   }
