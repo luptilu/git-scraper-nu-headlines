@@ -1,5 +1,51 @@
 [
   {
+    "id": 6271743,
+    "slug": "praat-mee-wie-moet-mark-rutte-opvolgen-bij-de-vvd",
+    "type": "article",
+    "title": "Praat mee: Wie moet Mark Rutte opvolgen bij de VVD?",
+    "subtitle": null,
+    "published_at": "2023-07-10T12:45:36+02:00",
+    "updated_at": "2023-07-10T12:45:37+02:00",
+    "media_id": "1wix71ka1edm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6271743/praat-mee-wie-moet-mark-rutte-opvolgen-bij-de-vvd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271744,
+    "slug": "wie-gaat-cda-leiden-ook-fractievoorzitter-heerma-niet-meer-verkiesbaar",
+    "type": "article",
+    "title": "Wie gaat CDA leiden? Ook fractievoorzitter Heerma niet meer verkiesbaar",
+    "subtitle": null,
+    "published_at": "2023-07-10T12:36:11+02:00",
+    "updated_at": "2023-07-10T12:36:12+02:00",
+    "media_id": "glqxkaqa6ffa",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6271744/wie-gaat-cda-leiden-ook-fractievoorzitter-heerma-niet-meer-verkiesbaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271742,
     "slug": "stroom-van-zonnepanelen-kan-nog-vaak-niet-worden-gebruikt",
     "type": "article",
@@ -75,7 +121,7 @@
     "title": "Bezoekers van door noodweer afgelaste festivals krijgen geld (deels) terug",
     "subtitle": null,
     "published_at": "2023-07-10T12:25:05+02:00",
-    "updated_at": "2023-07-10T12:31:51+02:00",
+    "updated_at": "2023-07-10T12:44:10+02:00",
     "media_id": "vk9xk2jaxuui",
     "duration": null,
     "canonical_section": {
@@ -190,7 +236,7 @@
     "title": "Tour de France Femmes 2024 begint in Nederland met drie etappes in twee dagen",
     "subtitle": null,
     "published_at": "2023-07-10T12:04:14+02:00",
-    "updated_at": "2023-07-10T12:31:28+02:00",
+    "updated_at": "2023-07-10T12:38:11+02:00",
     "media_id": "1v9x719a92jb",
     "duration": null,
     "canonical_section": {
@@ -282,7 +328,7 @@
     "title": "Oppositie prijst 'tomeloze inzet' Rutte: 'Maar vertrek is enige juiste besluit'",
     "subtitle": null,
     "published_at": "2023-07-10T10:58:58+02:00",
-    "updated_at": "2023-07-10T12:32:30+02:00",
+    "updated_at": "2023-07-10T12:45:56+02:00",
     "media_id": "v9gxjlra7dgs",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6271716/vvd-leider-mark-rutte-verlaat-politiek-mijn-positie-is-volstrekt-ondergeschikt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271713,
-    "slug": "kijk-hier-live-mee-met-kamerdebat-over-val-kabinet-en-vertrek-rutte",
-    "type": "video",
-    "title": "Kijk hier live mee met Kamerdebat over val kabinet en vertrek Rutte",
-    "subtitle": "Livestream",
-    "published_at": "2023-07-10T10:14:03+02:00",
-    "updated_at": "2023-07-10T12:03:01+02:00",
-    "media_id": "m9xx1hcaxmnh",
-    "duration": "0:01",
-    "canonical_section": {
-      "id": 1779274,
-      "slug": "val-kabinet",
-      "type": "default",
-      "name": "Val kabinet en vertrek Rutte",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/val-kabinet/6271713/kijk-hier-live-mee-met-kamerdebat-over-val-kabinet-en-vertrek-rutte.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271706,
-    "slug": "organisaties-doen-aangifte-tegen-burgemeester-en-boer-om-doodschieten-wolf",
-    "type": "article",
-    "title": "Organisaties doen aangifte tegen burgemeester en boer om doodschieten wolf",
-    "subtitle": null,
-    "published_at": "2023-07-10T09:50:10+02:00",
-    "updated_at": "2023-07-10T10:54:10+02:00",
-    "media_id": "k6lxuifang87",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6271706/organisaties-doen-aangifte-tegen-burgemeester-en-boer-om-doodschieten-wolf.html",
     "open_new_window": false,
     "partner": null
   }
