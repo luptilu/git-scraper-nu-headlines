@@ -1,5 +1,28 @@
 [
   {
+    "id": 6272238,
+    "slug": "van-der-poel-kleurt-zinderende-tour-etappe-maar-moet-zege-aan-izagirre-laten",
+    "type": "article",
+    "title": "Van der Poel kleurt zinderende Tour-etappe, maar moet zege aan Izagirre laten",
+    "subtitle": null,
+    "published_at": "2023-07-13T17:18:38+02:00",
+    "updated_at": "2023-07-13T17:20:58+02:00",
+    "media_id": "klxx202akdyp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772173,
+      "slug": "tour-de-france",
+      "type": "default",
+      "name": "Tour de France",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tour-de-france/6272238/van-der-poel-kleurt-zinderende-tour-etappe-maar-moet-zege-aan-izagirre-laten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272237,
     "slug": "controleer-jij-altijd-op-teken-praat-mee-over-lyme-en-tekenbeten",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech-wetenschap/6272219/james-webb-telescoop-maakt-haarscherpe-beelden-van-geboorte-sterren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272213,
-    "slug": "prinses-laurentien-bewondert-zelfvertrouwen-van-haar-dochter-eloise",
-    "type": "article",
-    "title": "Prinses Laurentien bewondert zelfvertrouwen van haar dochter Eloise",
-    "subtitle": null,
-    "published_at": "2023-07-13T14:17:26+02:00",
-    "updated_at": "2023-07-13T14:17:28+02:00",
-    "media_id": "jgcx8oqa21sd",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6272213/prinses-laurentien-bewondert-zelfvertrouwen-van-haar-dochter-eloise.html",
     "open_new_window": false,
     "partner": null
   }
