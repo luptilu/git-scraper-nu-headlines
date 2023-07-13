@@ -1,5 +1,28 @@
 [
   {
+    "id": 6272149,
+    "slug": "olieprijs-voor-het-eerst-in-twee-maanden-boven-de-80-euro",
+    "type": "article",
+    "title": "Olieprijs voor het eerst in twee maanden boven de 80 euro",
+    "subtitle": null,
+    "published_at": "2023-07-13T08:45:46+02:00",
+    "updated_at": "2023-07-13T08:45:47+02:00",
+    "media_id": "hc7xjqmajkgr",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6272149/olieprijs-voor-het-eerst-in-twee-maanden-boven-de-80-euro.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272147,
     "slug": "kyiv-voor-derde-nacht-op-rij-aangevallen-door-russische-drones",
     "type": "article",
@@ -93,12 +116,12 @@
   },
   {
     "id": 6272043,
-    "slug": "woz-waarde-bereikt-hoogste-waarde-ooit",
+    "slug": "woz-waarde-stijgt-naar-hoogste-punt-ooit",
     "type": "article",
-    "title": "WOZ-waarde bereikt hoogste waarde ooit",
+    "title": "WOZ-waarde stijgt naar hoogste punt ooit",
     "subtitle": null,
     "published_at": "2023-07-13T06:57:08+02:00",
-    "updated_at": "2023-07-13T08:18:22+02:00",
+    "updated_at": "2023-07-13T08:39:14+02:00",
     "media_id": "48oxaogavfym",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6272043/woz-waarde-bereikt-hoogste-waarde-ooit.html",
+    "url": "/economie/6272043/woz-waarde-stijgt-naar-hoogste-punt-ooit.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +351,7 @@
     "title": "Medische chatbot van Google slaagt voor examen geneeskunde",
     "subtitle": null,
     "published_at": "2023-07-12T23:57:28+02:00",
-    "updated_at": "2023-07-13T07:09:58+02:00",
+    "updated_at": "2023-07-13T08:38:57+02:00",
     "media_id": "absxfacahl9t",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6272076/zij-komen-er-niet-aan-te-pas-op-woningmarkt-wil-toekomst-voor-zoontje.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272128,
-    "slug": "meerdere-amerikaanse-ministeries-gehackt-door-chinese-spionagegroep",
-    "type": "article",
-    "title": "Meerdere Amerikaanse ministeries gehackt door Chinese spionagegroep",
-    "subtitle": null,
-    "published_at": "2023-07-12T21:05:27+02:00",
-    "updated_at": "2023-07-13T07:08:32+02:00",
-    "media_id": "707x55vaq278",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6272128/meerdere-amerikaanse-ministeries-gehackt-door-chinese-spionagegroep.html",
     "open_new_window": false,
     "partner": null
   }
