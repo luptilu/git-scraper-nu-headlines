@@ -1,12 +1,35 @@
 [
   {
+    "id": 6272147,
+    "slug": "kyiv-voor-derde-nacht-op-rij-aangevallen-door-russische-drones",
+    "type": "article",
+    "title": "Kyiv voor derde nacht op rij aangevallen door Russische drones",
+    "subtitle": null,
+    "published_at": "2023-07-13T08:34:04+02:00",
+    "updated_at": "2023-07-13T08:34:05+02:00",
+    "media_id": "k1xxod6ajwo9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6272147/kyiv-voor-derde-nacht-op-rij-aangevallen-door-russische-drones.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272146,
     "slug": "lebron-james-gaat-uit-pure-liefde-voor-basketbal-nog-zeker-een-jaar-door",
     "type": "article",
     "title": "LeBron James gaat 'uit pure liefde voor basketbal' nog zeker een jaar door",
     "subtitle": null,
     "published_at": "2023-07-13T08:14:30+02:00",
-    "updated_at": "2023-07-13T08:19:34+02:00",
+    "updated_at": "2023-07-13T08:25:01+02:00",
     "media_id": "33nxc36a5775",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "VS laat zich verrassen in halve finale Gold Cup, Mexico wél naar eindstrijd",
     "subtitle": null,
     "published_at": "2023-07-13T07:55:34+02:00",
-    "updated_at": "2023-07-13T07:55:35+02:00",
+    "updated_at": "2023-07-13T08:29:00+02:00",
     "media_id": "7kqxf4caj0e4",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Svitolina en Sluiter laten Oekraïne en Wimbledon versteld staan: 'Beter dan ooit'",
     "subtitle": "NU+",
     "published_at": "2023-07-13T05:15:08+02:00",
-    "updated_at": "2023-07-13T07:21:45+02:00",
+    "updated_at": "2023-07-13T08:24:31+02:00",
     "media_id": "031xletasequ",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6272128/meerdere-amerikaanse-ministeries-gehackt-door-chinese-spionagegroep.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272127,
-    "slug": "concerten-van-taylor-swift-in-amsterdam-zijn-uitverkocht",
-    "type": "article",
-    "title": "Concerten van Taylor Swift in Amsterdam zijn uitverkocht",
-    "subtitle": null,
-    "published_at": "2023-07-12T21:01:59+02:00",
-    "updated_at": "2023-07-12T21:08:50+02:00",
-    "media_id": "350xeqba7nhi",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6272127/concerten-van-taylor-swift-in-amsterdam-zijn-uitverkocht.html",
     "open_new_window": false,
     "partner": null
   }
