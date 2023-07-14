@@ -1,12 +1,35 @@
 [
   {
+    "id": 6272374,
+    "slug": "thora-en-bijbelverbranding-mag-bij-israelische-ambassade-in-zweden",
+    "type": "article",
+    "title": "Thora- en bijbelverbranding mag bij Israëlische ambassade in Zweden",
+    "subtitle": null,
+    "published_at": "2023-07-14T21:19:32+02:00",
+    "updated_at": "2023-07-14T21:19:34+02:00",
+    "media_id": "nivxvekae8q6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6272374/thora-en-bijbelverbranding-mag-bij-israelische-ambassade-in-zweden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272435,
     "slug": "colombiaanse-junglekinderen-maken-het-goed-en-zijn-ontslagen-uit-ziekenhuis",
     "type": "article",
     "title": "Colombiaanse 'junglekinderen' maken het goed en zijn ontslagen uit ziekenhuis",
     "subtitle": null,
     "published_at": "2023-07-14T21:09:32+02:00",
-    "updated_at": "2023-07-14T21:09:33+02:00",
+    "updated_at": "2023-07-14T21:18:32+02:00",
     "media_id": "8b5xg3hasn1a",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Minimaal verlies op Grand Colombier voelt bijna als winst voor Vingegaard in Tour",
     "subtitle": null,
     "published_at": "2023-07-14T20:22:55+02:00",
-    "updated_at": "2023-07-14T20:40:25+02:00",
+    "updated_at": "2023-07-14T21:14:19+02:00",
     "media_id": "i9yxl1la3yai",
     "duration": null,
     "canonical_section": {
@@ -397,7 +420,7 @@
     "title": "Wimbledon krijgt droomfinale: Djokovic en Alcaraz gaan strijden om titel",
     "subtitle": null,
     "published_at": "2023-07-14T17:27:27+02:00",
-    "updated_at": "2023-07-14T21:05:53+02:00",
+    "updated_at": "2023-07-14T21:19:25+02:00",
     "media_id": "dprxll7a41un",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tour-de-france/6272411/spanning-in-tour-neemt-verder-toe-pogacar-nadert-vingegaard-tot-op-9-seconden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272380,
-    "slug": "weekendweerbericht-broeierig-en-buiig-weekend-sluit-af-met-veel-wind",
-    "type": "article",
-    "title": "Weekendweerbericht: Broeierig en buiig weekend sluit af met veel wind",
-    "subtitle": null,
-    "published_at": "2023-07-14T17:09:53+02:00",
-    "updated_at": "2023-07-14T17:09:56+02:00",
-    "media_id": "hyvxix5ar5sf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6272380/weekendweerbericht-broeierig-en-buiig-weekend-sluit-af-met-veel-wind.html",
     "open_new_window": false,
     "partner": null
   }
