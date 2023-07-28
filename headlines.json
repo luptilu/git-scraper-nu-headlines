@@ -1,5 +1,51 @@
 [
   {
+    "id": 6274219,
+    "slug": "brandweer-vaker-op-pad-vanwege-woningbranden-oorzaak-is-nog-onduidelijk",
+    "type": "article",
+    "title": "Brandweer vaker op pad vanwege woningbranden, oorzaak is nog onduidelijk",
+    "subtitle": null,
+    "published_at": "2023-07-28T10:23:16+02:00",
+    "updated_at": "2023-07-28T10:23:17+02:00",
+    "media_id": "lpox765a4jfv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6274219/brandweer-vaker-op-pad-vanwege-woningbranden-oorzaak-is-nog-onduidelijk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274217,
+    "slug": "jill-roord-is-als-wk-ster-geen-flapuit-meer-ik-moet-soms-slimmer-zijn",
+    "type": "article",
+    "title": "Jill Roord is als WK-ster geen flapuit meer: 'Ik moet soms slimmer zijn'",
+    "subtitle": "NU+",
+    "published_at": "2023-07-28T10:21:54+02:00",
+    "updated_at": "2023-07-28T10:21:55+02:00",
+    "media_id": "tg6x2eda6c72",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779272,
+      "slug": "wk-voetbal-2023",
+      "type": "default",
+      "name": "WK voetbal 2023",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wk-voetbal-2023/6274217/jill-roord-is-als-wk-ster-geen-flapuit-meer-ik-moet-soms-slimmer-zijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274228,
     "slug": "tupperware-dat-minder-bakjes-verkoopt-wordt-in-week-drie-keer-zoveel-waard",
     "type": "article",
@@ -75,7 +121,7 @@
     "title": "Engeland en Wiegman kunnen bij winst volgende ronde WK halen",
     "subtitle": "Liveblog",
     "published_at": "2023-07-28T10:00:56+02:00",
-    "updated_at": "2023-07-28T10:14:13+02:00",
+    "updated_at": "2023-07-28T10:23:42+02:00",
     "media_id": "006x6k5apfbq",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6274194/benzema-laat-zich-bij-debuut-in-saoedi-arabie-gelden-met-fraaie-winnende-goal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274191,
-    "slug": "weerbericht-meer-zon-maar-buienapp-controleren-is-geen-overbodige-luxe",
-    "type": "article",
-    "title": "Weerbericht: Meer zon, maar buienapp controleren is geen overbodige luxe",
-    "subtitle": null,
-    "published_at": "2023-07-28T07:06:36+02:00",
-    "updated_at": "2023-07-28T07:19:22+02:00",
-    "media_id": "13pxw2ia626d",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6274191/weerbericht-meer-zon-maar-buienapp-controleren-is-geen-overbodige-luxe.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274141,
-    "slug": "bb-vol-liefde-of-first-dates-praat-mee-over-datingprogrammas",
-    "type": "article",
-    "title": "B&B Vol liefde of First Dates? Praat mee over datingprogramma's",
-    "subtitle": null,
-    "published_at": "2023-07-28T07:02:34+02:00",
-    "updated_at": "2023-07-28T07:02:35+02:00",
-    "media_id": "dvrx9l0au8fs",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6274141/bb-vol-liefde-of-first-dates-praat-mee-over-datingprogrammas.html",
     "open_new_window": false,
     "partner": null
   }
