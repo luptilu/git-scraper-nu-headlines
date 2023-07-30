@@ -1,5 +1,28 @@
 [
   {
+    "id": 6274556,
+    "slug": "denemarken-wil-maatregelen-tegen-beledigende-protestacties",
+    "type": "article",
+    "title": "Denemarken wil maatregelen tegen beledigende protestacties",
+    "subtitle": null,
+    "published_at": "2023-07-30T21:22:59+02:00",
+    "updated_at": "2023-07-30T21:23:01+02:00",
+    "media_id": "mphxmtjaz2do",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6274556/denemarken-wil-maatregelen-tegen-beledigende-protestacties.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274552,
     "slug": "weer-trofee-van-verstappen-gesneuveld-ditmaal-door-toedoen-van-eigen-team",
     "type": "article",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6274551,
-    "slug": "psv-sluit-voorbereiding-af-met-kleine-overwinning-op-nottingham-forest",
+    "slug": "psv-met-nul-invallers-langs-nottingham-forest-in-afsluitend-oefenduel",
     "type": "article",
-    "title": "PSV sluit voorbereiding af met kleine overwinning op Nottingham Forest",
+    "title": "PSV met nul invallers langs Nottingham Forest in afsluitend oefenduel",
     "subtitle": null,
     "published_at": "2023-07-30T20:25:56+02:00",
-    "updated_at": "2023-07-30T20:54:07+02:00",
+    "updated_at": "2023-07-30T21:09:53+02:00",
     "media_id": "oknxempag5zu",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6274551/psv-sluit-voorbereiding-af-met-kleine-overwinning-op-nottingham-forest.html",
+    "url": "/voetbal/6274551/psv-met-nul-invallers-langs-nottingham-forest-in-afsluitend-oefenduel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +328,7 @@
     "title": "Vollering stelt eindzege Tour veilig, Kopecky stoot Van Vleuten van podium",
     "subtitle": null,
     "published_at": "2023-07-30T17:30:35+02:00",
-    "updated_at": "2023-07-30T18:57:23+02:00",
+    "updated_at": "2023-07-30T21:19:14+02:00",
     "media_id": "inxxpe6aj1sl",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6274534/motorcrosser-herlings-maakt-rentree-met-vijfde-plek-in-finse-grand-prix.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274505,
-    "slug": "oppermachtige-verstappen-declasseert-perez-en-wint-in-belgie-achtste-gp-op-rij",
-    "type": "article",
-    "title": "Oppermachtige Verstappen declasseert Pérez en wint in België achtste GP op rij",
-    "subtitle": null,
-    "published_at": "2023-07-30T16:28:07+02:00",
-    "updated_at": "2023-07-30T19:24:22+02:00",
-    "media_id": "ovmxlbcajtzp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP België",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6274505/oppermachtige-verstappen-declasseert-perez-en-wint-in-belgie-achtste-gp-op-rij.html",
     "open_new_window": false,
     "partner": null
   }
