@@ -1,5 +1,28 @@
 [
   {
+    "id": 6277424,
+    "slug": "tropische-storm-hilary-teistert-death-valley-en-de-rest-van-californie",
+    "type": "video",
+    "title": "Tropische storm Hilary teistert Death Valley en de rest van Californië",
+    "subtitle": "Video",
+    "published_at": "2023-08-21T18:45:38+02:00",
+    "updated_at": "2023-08-21T18:45:39+02:00",
+    "media_id": "eizxcs0apph7",
+    "duration": "0:42",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6277424/tropische-storm-hilary-teistert-death-valley-en-de-rest-van-californie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6277347,
     "slug": "psv-wacht-totaal-vernieuwd-en-nederlands-rangers-in-jacht-op-revanche",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6277389/aftellen-naar-gp-nederland-wanneer-komt-verstappen-in-actie-in-zandvoort.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277386,
-    "slug": "dronken-chauffeur-botst-met-auto-op-rijdende-trein-in-taiwan",
-    "type": "video",
-    "title": "Dronken chauffeur botst met auto op rijdende trein in Taiwan",
-    "subtitle": "Video",
-    "published_at": "2023-08-21T13:28:14+02:00",
-    "updated_at": "2023-08-21T13:28:15+02:00",
-    "media_id": "146xxp3a5phv",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6277386/dronken-chauffeur-botst-met-auto-op-rijdende-trein-in-taiwan.html",
     "open_new_window": false,
     "partner": null
   }
