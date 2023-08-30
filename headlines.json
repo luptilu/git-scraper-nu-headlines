@@ -1,5 +1,28 @@
 [
   {
+    "id": 6278795,
+    "slug": "bierbril-ontkracht-na-nieuw-onderzoek-alcohol-maakt-anderen-niet-aantrekkelijker",
+    "type": "article",
+    "title": "'Bierbril' ontkracht na nieuw onderzoek: alcohol maakt anderen niet aantrekkelijker",
+    "subtitle": null,
+    "published_at": "2023-08-30T20:18:36+02:00",
+    "updated_at": "2023-08-30T20:19:44+02:00",
+    "media_id": "3nrx6vaat17k",
+    "duration": null,
+    "canonical_section": {
+      "id": 937692,
+      "slug": "opmerkelijk",
+      "type": "default",
+      "name": "Opmerkelijk",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/opmerkelijk/6278795/bierbril-ontkracht-na-nieuw-onderzoek-alcohol-maakt-anderen-niet-aantrekkelijker.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278800,
     "slug": "az-opnieuw-zonder-clasie-in-voor-nederlands-voetbal-cruciaal-europees-duel",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Mag België alleenstaande mannen weigeren voor asiel? En nog 4 vragen",
     "subtitle": "NU+",
     "published_at": "2023-08-30T20:07:12+02:00",
-    "updated_at": "2023-08-30T20:09:33+02:00",
+    "updated_at": "2023-08-30T20:19:56+02:00",
     "media_id": "7gcxyzsa8vp1",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Trumps ex-advocaat Giuliani beschuldigde stembureau onterecht van gesjoemel",
     "subtitle": null,
     "published_at": "2023-08-30T19:56:05+02:00",
-    "updated_at": "2023-08-30T20:06:21+02:00",
+    "updated_at": "2023-08-30T20:24:56+02:00",
     "media_id": "7suxdqvagavh",
     "duration": null,
     "canonical_section": {
@@ -236,8 +259,8 @@
     "title": "PSV staat voor zenuwslopende avond, Dessers start bij Rangers",
     "subtitle": "Liveblog",
     "published_at": "2023-08-30T19:16:25+02:00",
-    "updated_at": "2023-08-30T20:00:04+02:00",
-    "media_id": "i9ixzcva98s9",
+    "updated_at": "2023-08-30T20:26:38+02:00",
+    "media_id": "b2oxpk8ax46p",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6278778/hoe-rusland-koekje-van-eigen-deeg-krijgt-na-grootste-droneaanval.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278771,
-    "slug": "oekraine-zinspeelt-na-herovering-robotyne-op-verdere-opmars-richting-de-krim",
-    "type": "article",
-    "title": "Oekraïne zinspeelt na herovering Robotyne op verdere opmars richting de Krim",
-    "subtitle": null,
-    "published_at": "2023-08-30T17:13:40+02:00",
-    "updated_at": "2023-08-30T17:23:01+02:00",
-    "media_id": "1vixv46agxkk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6278771/oekraine-zinspeelt-na-herovering-robotyne-op-verdere-opmars-richting-de-krim.html",
     "open_new_window": false,
     "partner": null
   }
