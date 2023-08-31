@@ -1,12 +1,58 @@
 [
   {
+    "id": 6278904,
+    "slug": "taylor-swift-brengt-the-eras-tour-naar-de-bioscoop-met-concertfilm",
+    "type": "article",
+    "title": "Taylor Swift brengt The Eras Tour naar de bioscoop met concertfilm",
+    "subtitle": null,
+    "published_at": "2023-08-31T15:24:42+02:00",
+    "updated_at": "2023-08-31T15:24:45+02:00",
+    "media_id": "w09xn2kau80h",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6278904/taylor-swift-brengt-the-eras-tour-naar-de-bioscoop-met-concertfilm.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6278909,
+    "slug": "miljoenen-bijen-zwermen-langs-weg-in-canada-na-ongeval",
+    "type": "video",
+    "title": "Miljoenen bijen zwermen langs weg in Canada na ongeval",
+    "subtitle": "Video",
+    "published_at": "2023-08-31T15:23:10+02:00",
+    "updated_at": "2023-08-31T15:24:30+02:00",
+    "media_id": "nlzxic7agu75",
+    "duration": "0:50",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6278909/miljoenen-bijen-zwermen-langs-weg-in-canada-na-ongeval.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278905,
     "slug": "failliet-vanmoof-overgenomen-door-e-scootermerk-lavoie",
     "type": "article",
-    "title": "Failliet VanMoof overgenomen door e-scootermerk LaVoie",
+    "title": "Failliet VanMoof overgenomen door e-scootermerk Lavoie",
     "subtitle": null,
     "published_at": "2023-08-31T15:18:37+02:00",
-    "updated_at": "2023-08-31T15:19:13+02:00",
+    "updated_at": "2023-08-31T15:21:01+02:00",
     "media_id": "2hsxdp1afttw",
     "duration": null,
     "canonical_section": {
@@ -47,13 +93,13 @@
   },
   {
     "id": 6278902,
-    "slug": "feyenoord-talent-baars-20-stopt-kort-na-kkd-debuut-voelt-alsof-muren-op-me-afkomen",
+    "slug": "feyenoord-talent-stopt-kort-na-kkd-debuut-voelt-alsof-muren-op-me-afkomen",
     "type": "article",
-    "title": "Feyenoord-talent Baars (20) stopt kort na KKD-debuut: 'Voelt alsof muren op me afkomen'",
+    "title": "Feyenoord-talent stopt kort na KKD-debuut: 'Voelt alsof muren op me afkomen'",
     "subtitle": null,
     "published_at": "2023-08-31T15:08:44+02:00",
-    "updated_at": "2023-08-31T15:16:55+02:00",
-    "media_id": "o1uxczia1u3i",
+    "updated_at": "2023-08-31T15:24:08+02:00",
+    "media_id": "m8dx9d3az7n0",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6278902/feyenoord-talent-baars-20-stopt-kort-na-kkd-debuut-voelt-alsof-muren-op-me-afkomen.html",
+    "url": "/voetbal/6278902/feyenoord-talent-stopt-kort-na-kkd-debuut-voelt-alsof-muren-op-me-afkomen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -93,12 +139,12 @@
   },
   {
     "id": 6278895,
-    "slug": "burgernet-stopt-morgen-met-opsporingsberichten-via-sms",
+    "slug": "vanaf-morgen-krijg-je-opsporingsberichten-van-burgernet-niet-meer-via-sms",
     "type": "article",
-    "title": "Burgernet stopt morgen met opsporingsberichten via sms",
+    "title": "Vanaf morgen krijg je opsporingsberichten van Burgernet niet meer via sms",
     "subtitle": null,
     "published_at": "2023-08-31T14:20:54+02:00",
-    "updated_at": "2023-08-31T14:38:20+02:00",
+    "updated_at": "2023-08-31T15:26:14+02:00",
     "media_id": "cgix29oa7rr1",
     "duration": null,
     "canonical_section": {
@@ -110,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6278895/burgernet-stopt-morgen-met-opsporingsberichten-via-sms.html",
+    "url": "/tech/6278895/vanaf-morgen-krijg-je-opsporingsberichten-van-burgernet-niet-meer-via-sms.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +259,7 @@
     "title": "Wagner-baas Prigozhin spreekt kort voor dood in nieuw opgedoken video",
     "subtitle": "Video",
     "published_at": "2023-08-31T13:08:17+02:00",
-    "updated_at": "2023-08-31T14:24:57+02:00",
+    "updated_at": "2023-08-31T15:23:50+02:00",
     "media_id": "w1vx4w9az73e",
     "duration": "0:52",
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6278875/zeldzame-blauwe-supermaan-goed-zichtbaar-wereldwijd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278705,
-    "slug": "mourinho-en-as-roma-verlossen-lukaku-van-uitzichtloze-situatie-bij-chelsea",
-    "type": "article",
-    "title": "Mourinho en AS Roma verlossen Lukaku van uitzichtloze situatie bij Chelsea",
-    "subtitle": null,
-    "published_at": "2023-08-31T12:09:14+02:00",
-    "updated_at": "2023-08-31T12:31:37+02:00",
-    "media_id": "u8wxtpkad5xj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6278705/mourinho-en-as-roma-verlossen-lukaku-van-uitzichtloze-situatie-bij-chelsea.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278869,
-    "slug": "storm-idalia-zwakt-af-in-vs-maar-heeft-een-spoor-van-vernieling-achtergelaten",
-    "type": "article",
-    "title": "Storm Idalia zwakt af in VS, maar heeft een spoor van vernieling achtergelaten",
-    "subtitle": null,
-    "published_at": "2023-08-31T12:06:11+02:00",
-    "updated_at": "2023-08-31T14:22:28+02:00",
-    "media_id": "zb7xsndaq5du",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6278869/storm-idalia-zwakt-af-in-vs-maar-heeft-een-spoor-van-vernieling-achtergelaten.html",
     "open_new_window": false,
     "partner": null
   }
