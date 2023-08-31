@@ -1,5 +1,28 @@
 [
   {
+    "id": 6278768,
+    "slug": "zit-je-niet-lekker-in-je-vel-dit-kun-je-doen-om-weerbaarder-worden",
+    "type": "article",
+    "title": "Zit je niet lekker in je vel? Dit kun je doen om weerbaarder worden",
+    "subtitle": "NU+",
+    "published_at": "2023-08-31T20:25:09+02:00",
+    "updated_at": "2023-08-31T20:25:10+02:00",
+    "media_id": "ysqx8kaarilx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1146768,
+      "slug": "gezondheid",
+      "type": "default",
+      "name": "Gezondheid",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/gezondheid/6278768/zit-je-niet-lekker-in-je-vel-dit-kun-je-doen-om-weerbaarder-worden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278947,
     "slug": "wiegman-draagt-prijs-op-aan-spaanse-voetbalsters-in-indrukwekkende-toespraak",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "CL-tegenstanders Feyenoord en PSV uitgelicht: pikant weerzien voor beide clubs",
     "subtitle": null,
     "published_at": "2023-08-31T19:26:22+02:00",
-    "updated_at": "2023-08-31T20:17:53+02:00",
+    "updated_at": "2023-08-31T20:25:58+02:00",
     "media_id": "mrwxad2auf10",
     "duration": null,
     "canonical_section": {
@@ -277,12 +300,12 @@
   },
   {
     "id": 6278934,
-    "slug": "van-bommel-verdubbelt-de-marge-voor-az-nog-geen-goals-bij-ajax-en-twente",
+    "slug": "van-bommel-verdubbelt-marge-voor-az-nog-geen-goals-bij-ajax-en-twente",
     "type": "article",
-    "title": "Van Bommel verdubbelt de marge voor AZ, nog geen goals bij Ajax en Twente",
+    "title": "Van Bommel verdubbelt marge voor AZ, nog geen goals bij Ajax en Twente",
     "subtitle": "Liveblog",
     "published_at": "2023-08-31T18:13:27+02:00",
-    "updated_at": "2023-08-31T20:14:55+02:00",
+    "updated_at": "2023-08-31T20:21:45+02:00",
     "media_id": "vfyx7efa5knd",
     "duration": null,
     "canonical_section": {
@@ -294,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6278934/van-bommel-verdubbelt-de-marge-voor-az-nog-geen-goals-bij-ajax-en-twente.html",
+    "url": "/voetbal/6278934/van-bommel-verdubbelt-marge-voor-az-nog-geen-goals-bij-ajax-en-twente.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6278926/verstappen-ontkent-grote-invloed-op-rijgedrag-red-bull-zo-werkt-het-niet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278924,
-    "slug": "jumbo-visma-juicht-in-vuelta-roglic-en-vingegaard-kraken-evenepoel-kuss-wint",
-    "type": "article",
-    "title": "Jumbo-Visma juicht in Vuelta: Roglic en Vingegaard kraken Evenepoel, Kuss wint",
-    "subtitle": null,
-    "published_at": "2023-08-31T17:18:36+02:00",
-    "updated_at": "2023-08-31T18:31:43+02:00",
-    "media_id": "q13x7b3afu1u",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6278924/jumbo-visma-juicht-in-vuelta-roglic-en-vingegaard-kraken-evenepoel-kuss-wint.html",
     "open_new_window": false,
     "partner": null
   }
