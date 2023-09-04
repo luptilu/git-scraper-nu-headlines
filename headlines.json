@@ -1,5 +1,28 @@
 [
   {
+    "id": 6279476,
+    "slug": "bondscoach-ronald-koeman-blikt-vooruit-op-ek-kwalificatieduels-oranje",
+    "type": "video",
+    "title": "Bondscoach Ronald Koeman blikt vooruit op EK-kwalificatieduels Oranje",
+    "subtitle": "Livestream",
+    "published_at": "2023-09-04T16:23:31+02:00",
+    "updated_at": "2023-09-04T16:23:32+02:00",
+    "media_id": "6hxxas2ay9lu",
+    "duration": "0:01",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6279476/bondscoach-ronald-koeman-blikt-vooruit-op-ek-kwalificatieduels-oranje.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279473,
     "slug": "zelfs-op-rustdag-gedoe-rond-vuelta-renners-door-noodweer-pas-s-nachts-in-hotel",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6279429/studeer-je-en-zit-je-wel-of-juist-niet-bij-een-vereniging.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279437,
-    "slug": "art-rooijakkers-vraagt-zijn-vriendin-karlijn-ten-huwelijk",
-    "type": "article",
-    "title": "Art Rooijakkers vraagt zijn vriendin Karlijn ten huwelijk",
-    "subtitle": null,
-    "published_at": "2023-09-04T12:33:32+02:00",
-    "updated_at": "2023-09-04T12:59:25+02:00",
-    "media_id": "59exu6rasuah",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6279437/art-rooijakkers-vraagt-zijn-vriendin-karlijn-ten-huwelijk.html",
     "open_new_window": false,
     "partner": null
   }
