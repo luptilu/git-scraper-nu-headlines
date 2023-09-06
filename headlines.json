@@ -253,6 +253,29 @@
     "partner": null
   },
   {
+    "id": 6279755,
+    "slug": "spotify-blijkt-een-paradijs-voor-zweedse-witwassers",
+    "type": "article",
+    "title": "Spotify blijkt een paradijs voor Zweedse witwassers",
+    "subtitle": null,
+    "published_at": "2023-09-06T15:39:53+02:00",
+    "updated_at": "2023-09-06T17:18:49+02:00",
+    "media_id": "19nxbnradn9f",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6279755/spotify-blijkt-een-paradijs-voor-zweedse-witwassers.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279768,
     "slug": "joe-jonas-en-sophie-turner-reageren-op-scheiding-gezamenlijke-beslissing",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6279745/koeman-laat-flekken-keepen-in-belangrijk-ek-kwalificatieduel-met-griekenland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279748,
-    "slug": "bekijk-hier-live-de-persconferentie-van-koeman-en-de-jong",
-    "type": "video",
-    "title": "Bekijk hier live de persconferentie van Koeman en De Jong",
-    "subtitle": "Livestream",
-    "published_at": "2023-09-06T13:51:23+02:00",
-    "updated_at": "2023-09-06T13:51:32+02:00",
-    "media_id": "uzwxjunakh5n",
-    "duration": "0:01",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6279748/bekijk-hier-live-de-persconferentie-van-koeman-en-de-jong.html",
     "open_new_window": false,
     "partner": null
   }
