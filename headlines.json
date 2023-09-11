@@ -1,5 +1,28 @@
 [
   {
+    "id": 6280424,
+    "slug": "sander-schimmelpenninck-voor-de-eerste-keer-vader-geworden",
+    "type": "article",
+    "title": "Sander Schimmelpenninck voor de eerste keer vader geworden",
+    "subtitle": null,
+    "published_at": "2023-09-11T14:50:38+02:00",
+    "updated_at": "2023-09-11T14:50:48+02:00",
+    "media_id": "9kexd12aooxy",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6280424/sander-schimmelpenninck-voor-de-eerste-keer-vader-geworden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280416,
     "slug": "een-op-de-twintig-nederlanders-kon-vorig-jaar-huis-niet-genoeg-verwarmen",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6280379/twaalf-jaar-cel-voor-pakistaan-die-opriep-tot-moord-op-geert-wilders.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280385,
-    "slug": "nederland-telt-ruim-twee-keer-zoveel-honderdplussers-als-twintig-jaar-geleden",
-    "type": "article",
-    "title": "Nederland telt ruim twee keer zoveel honderdplussers als twintig jaar geleden",
-    "subtitle": null,
-    "published_at": "2023-09-11T11:10:20+02:00",
-    "updated_at": "2023-09-11T11:10:23+02:00",
-    "media_id": "2u7x0zbawldm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6280385/nederland-telt-ruim-twee-keer-zoveel-honderdplussers-als-twintig-jaar-geleden.html",
     "open_new_window": false,
     "partner": null
   }
