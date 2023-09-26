@@ -1,5 +1,28 @@
 [
   {
+    "id": 6282662,
+    "slug": "italie-verbouwt-steeds-meer-mangos-en-bananen-vanwege-hetere-zomers",
+    "type": "article",
+    "title": "Italië verbouwt steeds meer mango's en bananen vanwege hetere zomers",
+    "subtitle": null,
+    "published_at": "2023-09-26T15:24:05+02:00",
+    "updated_at": "2023-09-26T15:24:06+02:00",
+    "media_id": "8d9xc6dakss9",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6282662/italie-verbouwt-steeds-meer-mangos-en-bananen-vanwege-hetere-zomers.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282661,
     "slug": "duitse-politie-arresteert-jongen-van-veertien-voor-dood-zesjarig-jongetje",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Ben jij recent bij een studentencorps gegaan? Dan zoeken we jou!",
     "subtitle": "Oproep",
     "published_at": "2023-09-26T15:14:46+02:00",
-    "updated_at": "2023-09-26T15:14:50+02:00",
+    "updated_at": "2023-09-26T15:22:48+02:00",
     "media_id": "vddxlmmaubl4",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Coach Bennema trots op Schippers: 'Ze kan terugkijken op fantastische carrière'",
     "subtitle": null,
     "published_at": "2023-09-26T14:40:10+02:00",
-    "updated_at": "2023-09-26T14:58:15+02:00",
+    "updated_at": "2023-09-26T15:23:01+02:00",
     "media_id": "tv8xanuasxpm",
     "duration": null,
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "Zaak tegen pakketbezorger die man doodreed in Wijchen moet over",
     "subtitle": null,
     "published_at": "2023-09-26T13:12:03+02:00",
-    "updated_at": "2023-09-26T15:17:38+02:00",
+    "updated_at": "2023-09-26T15:21:55+02:00",
     "media_id": "ldoxxk2atyd3",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6282510/kamer-in-debat-over-veelbesproken-spreidingswet-asielopvang-zo-zit-het.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282638,
-    "slug": "operazangeres-tania-kross-wint-johannes-vermeerprijs-2023",
-    "type": "article",
-    "title": "Operazangeres Tania Kross wint Johannes Vermeerprijs 2023",
-    "subtitle": null,
-    "published_at": "2023-09-26T12:08:07+02:00",
-    "updated_at": "2023-09-26T12:08:08+02:00",
-    "media_id": "olhxvnsaqudk",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6282638/operazangeres-tania-kross-wint-johannes-vermeerprijs-2023.html",
     "open_new_window": false,
     "partner": null
   }
