@@ -1,12 +1,35 @@
 [
   {
+    "id": 6282988,
+    "slug": "marco-borsato-wordt-vervolgd-hoe-zit-het-met-zijn-aangifte-tegen-deze-vrouw",
+    "type": "article",
+    "title": "Marco Borsato wordt vervolgd: hoe zit het met zijn aangifte tegen deze vrouw?",
+    "subtitle": "NU+",
+    "published_at": "2023-09-28T19:16:05+02:00",
+    "updated_at": "2023-09-28T19:16:07+02:00",
+    "media_id": "8guxnstaxmho",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6282988/marco-borsato-wordt-vervolgd-hoe-zit-het-met-zijn-aangifte-tegen-deze-vrouw.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283033,
     "slug": "vermeende-schutter-studeerde-aan-erasmus-mc-doden-zijn-docent-en-vrouw-39",
     "type": "article",
     "title": "Vermeende schutter studeerde aan Erasmus MC, doden zijn docent en vrouw (39)",
     "subtitle": null,
     "published_at": "2023-09-28T18:55:14+02:00",
-    "updated_at": "2023-09-28T19:12:07+02:00",
+    "updated_at": "2023-09-28T19:19:09+02:00",
     "media_id": "11pxgp1al8vu",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6282997/nijlpaard-valt-verzorger-aan-in-chinese-dierentuin.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282996,
-    "slug": "reisorganisatie-vacansoleil-bezwijkt-onder-schuldenlast-en-is-failliet-verklaard",
-    "type": "article",
-    "title": "Reisorganisatie Vacansoleil bezwijkt onder schuldenlast en is failliet verklaard",
-    "subtitle": null,
-    "published_at": "2023-09-28T15:20:46+02:00",
-    "updated_at": "2023-09-28T18:17:41+02:00",
-    "media_id": "d10xjj3aqq1m",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6282996/reisorganisatie-vacansoleil-bezwijkt-onder-schuldenlast-en-is-failliet-verklaard.html",
     "open_new_window": false,
     "partner": null
   }
