@@ -1,5 +1,28 @@
 [
   {
+    "id": 6283917,
+    "slug": "kamer-wil-poliklinieken-voor-langdurige-covid-minister-ziet-plan-niet-zitten",
+    "type": "article",
+    "title": "Kamer wil poliklinieken voor langdurige covid, minister ziet plan niet zitten",
+    "subtitle": null,
+    "published_at": "2023-10-04T22:21:21+02:00",
+    "updated_at": "2023-10-04T22:23:08+02:00",
+    "media_id": "39fx2u5a9vln",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778528,
+      "slug": "coronavirus",
+      "type": "default",
+      "name": "Coronavirus",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/coronavirus/6283917/kamer-wil-poliklinieken-voor-langdurige-covid-minister-ziet-plan-niet-zitten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283925,
     "slug": "omwonende-filmt-hoe-cubaans-gebouw-instort",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Turnster Biles pakt goud met VS én verovert 20e wereldtitel, bijrol voor Nederland",
     "subtitle": null,
     "published_at": "2023-10-04T22:11:10+02:00",
-    "updated_at": "2023-10-04T22:13:03+02:00",
+    "updated_at": "2023-10-04T22:24:55+02:00",
     "media_id": "6udxphraa9m5",
     "duration": null,
     "canonical_section": {
@@ -93,12 +116,12 @@
   },
   {
     "id": 6283922,
-    "slug": "saoedi-arabie-meldt-zich-vlak-na-bekendmaking-2030-voor-wk-voetbal-2034",
+    "slug": "saoedi-arabie-meldt-zich-vlak-na-toewijzing-wk-voetbal-2030-voor-editie-2034",
     "type": "article",
-    "title": "Saoedi-Arabië meldt zich vlak na bekendmaking 2030 voor WK voetbal 2034",
+    "title": "Saoedi-Arabië meldt zich vlak na toewijzing WK voetbal 2030 voor editie 2034",
     "subtitle": null,
     "published_at": "2023-10-04T21:57:51+02:00",
-    "updated_at": "2023-10-04T22:11:39+02:00",
+    "updated_at": "2023-10-04T22:23:27+02:00",
     "media_id": "l39x544ajr69",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6283922/saoedi-arabie-meldt-zich-vlak-na-bekendmaking-2030-voor-wk-voetbal-2034.html",
+    "url": "/voetbal/6283922/saoedi-arabie-meldt-zich-vlak-na-toewijzing-wk-voetbal-2030-voor-editie-2034.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +351,7 @@
     "title": "31 jaar na Bijlmervliegramp: 'Nog elk jaar voel je het verdriet'",
     "subtitle": null,
     "published_at": "2023-10-04T20:18:11+02:00",
-    "updated_at": "2023-10-04T20:28:15+02:00",
+    "updated_at": "2023-10-04T22:23:39+02:00",
     "media_id": "ct2x7muaf47o",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6283900/caroline-van-eeden-deed-aangifte-tegen-familie-meiland-wegens-smaad-en-laster.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283871,
-    "slug": "prins-bernhard-was-lid-van-hitlers-partij-nsdap-zo-zit-dat",
-    "type": "article",
-    "title": "Prins Bernhard was lid van Hitlers partij NSDAP: zo zit dat",
-    "subtitle": "In 100 woorden",
-    "published_at": "2023-10-04T19:35:39+02:00",
-    "updated_at": "2023-10-04T19:35:40+02:00",
-    "media_id": "fu7xy81au7a4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6283871/prins-bernhard-was-lid-van-hitlers-partij-nsdap-zo-zit-dat.html",
     "open_new_window": false,
     "partner": null
   }
