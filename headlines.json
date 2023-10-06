@@ -1,5 +1,28 @@
 [
   {
+    "id": 6284088,
+    "slug": "analyse-de-formule-1-wordt-steeds-meer-de-super-league-van-de-autosport",
+    "type": "article",
+    "title": "Analyse: De Formule 1 wordt steeds meer de Super League van de autosport",
+    "subtitle": null,
+    "published_at": "2023-10-06T05:15:00+02:00",
+    "updated_at": "2023-10-06T05:15:01+02:00",
+    "media_id": "b4xxjdra2f60",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778846,
+      "slug": "nu-formule-1",
+      "type": "default",
+      "name": "NU+ Formule 1",
+      "style": "nusport",
+      "media_id": "gtmxcxnaui5m",
+      "partner": null
+    },
+    "url": "/nu-formule-1/6284088/analyse-de-formule-1-wordt-steeds-meer-de-super-league-van-de-autosport.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284050,
     "slug": "cruijff-en-totaalvoetbal-moeten-cricketers-naar-wk-stunt-leiden",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6284078/vlammen-slaan-uit-beachclub-in-den-haag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284065,
-    "slug": "ajax-geeft-ook-bij-aek-zege-uit-handen-door-doelpunt-knipoog-kroaat-vida",
-    "type": "article",
-    "title": "Ajax geeft ook bij AEK zege uit handen door doelpunt 'knipoog-Kroaat' Vida",
-    "subtitle": null,
-    "published_at": "2023-10-05T20:40:33+02:00",
-    "updated_at": "2023-10-05T21:36:23+02:00",
-    "media_id": "73xxssia2xvo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6284065/ajax-geeft-ook-bij-aek-zege-uit-handen-door-doelpunt-knipoog-kroaat-vida.html",
     "open_new_window": false,
     "partner": null
   }
