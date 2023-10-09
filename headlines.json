@@ -1,5 +1,28 @@
 [
   {
+    "id": 6284622,
+    "slug": "cricketers-kunnen-nieuw-zeeland-niet-verrassen-en-verliezen-opnieuw-op-wk",
+    "type": "article",
+    "title": "Cricketers kunnen Nieuw-Zeeland niet verrassen en verliezen opnieuw op WK",
+    "subtitle": null,
+    "published_at": "2023-10-09T18:34:38+02:00",
+    "updated_at": "2023-10-09T18:34:39+02:00",
+    "media_id": "x7gxmulasstw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6284622/cricketers-kunnen-nieuw-zeeland-niet-verrassen-en-verliezen-opnieuw-op-wk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284620,
     "slug": "psv-hangt-tijdens-warming-up-netten-achter-doel-om-publiek-te-beschermen",
     "type": "article",
@@ -397,7 +420,7 @@
     "title": "24 jaar cel en tbs voor 'koffermoord' in Rotterdam",
     "subtitle": null,
     "published_at": "2023-10-09T15:37:07+02:00",
-    "updated_at": "2023-10-09T16:19:09+02:00",
+    "updated_at": "2023-10-09T18:38:00+02:00",
     "media_id": "z1bxywca346t",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6284575/giro-gaat-in-2024-exact-75-jaar-na-fataal-vliegtuigongeluk-van-start-in-turijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284578,
-    "slug": "sc-cambuur-ontslaat-trainer-sjors-ultee-per-direct-vanwege-slechte-resultaten",
-    "type": "article",
-    "title": "SC Cambuur ontslaat trainer Sjors Ultee per direct vanwege slechte resultaten",
-    "subtitle": null,
-    "published_at": "2023-10-09T15:19:37+02:00",
-    "updated_at": "2023-10-09T16:08:34+02:00",
-    "media_id": "9ctxrlga7nof",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6284578/sc-cambuur-ontslaat-trainer-sjors-ultee-per-direct-vanwege-slechte-resultaten.html",
     "open_new_window": false,
     "partner": null
   }
