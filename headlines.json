@@ -1,12 +1,35 @@
 [
   {
+    "id": 6284977,
+    "slug": "cambuur-wil-nog-meer-stakingen-voorkomen-en-hangt-tijdelijk-netten-voor-tribune",
+    "type": "article",
+    "title": "Cambuur wil nog meer stakingen voorkomen en hangt tijdelijk netten voor tribune",
+    "subtitle": null,
+    "published_at": "2023-10-12T10:17:03+02:00",
+    "updated_at": "2023-10-12T10:17:04+02:00",
+    "media_id": "r02x5mvaglyx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6284977/cambuur-wil-nog-meer-stakingen-voorkomen-en-hangt-tijdelijk-netten-voor-tribune.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284978,
     "slug": "nederland-blijft-mensen-ophalen-in-israel-zolang-het-nodig-is",
     "type": "article",
     "title": "Nederland blijft mensen ophalen in Israël 'zolang het nodig is'",
     "subtitle": null,
     "published_at": "2023-10-12T10:13:30+02:00",
-    "updated_at": "2023-10-12T10:14:28+02:00",
+    "updated_at": "2023-10-12T10:26:31+02:00",
     "media_id": "q3zx3cwapbs1",
     "duration": null,
     "canonical_section": {
@@ -346,12 +369,12 @@
   },
   {
     "id": 6284952,
-    "slug": "politieprogrammas-ewout-genemans-met-dierenleed-krijgen-voortaan-waarschuwing",
+    "slug": "voortaan-waarschuwing-bij-politieprogrammas-ewout-genemans-met-dierenleed",
     "type": "article",
-    "title": "Politieprogramma's Ewout Genemans met dierenleed krijgen voortaan waarschuwing",
+    "title": "Voortaan waarschuwing bij politieprogramma's Ewout Genemans met dierenleed",
     "subtitle": null,
     "published_at": "2023-10-12T06:39:32+02:00",
-    "updated_at": "2023-10-12T08:26:15+02:00",
+    "updated_at": "2023-10-12T10:26:32+02:00",
     "media_id": "z8cxb6pa24k7",
     "duration": null,
     "canonical_section": {
@@ -363,7 +386,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6284952/politieprogrammas-ewout-genemans-met-dierenleed-krijgen-voortaan-waarschuwing.html",
+    "url": "/media/6284952/voortaan-waarschuwing-bij-politieprogrammas-ewout-genemans-met-dierenleed.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/weerbericht/6284948/tijd-voor-een-poncho-en-een-dikkere-jas.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284947,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-10-12T05:25:03+02:00",
-    "updated_at": "2023-10-12T09:32:46+02:00",
-    "media_id": "xdtxc8kaj8rf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6284947/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
