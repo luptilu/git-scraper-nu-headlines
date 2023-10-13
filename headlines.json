@@ -1,13 +1,59 @@
 [
   {
-    "id": 6285167,
-    "slug": "dode-en-twee-zwaargewonden-door-steekpartij-op-franse-middelbare-school",
+    "id": 6285182,
+    "slug": "rus-en-hartono-doen-na-afzeggingen-in-april-nu-wel-mee-aan-billie-jean-king-cup",
     "type": "article",
-    "title": "Dode en twee zwaargewonden door steekpartij op Franse middelbare school",
+    "title": "Rus en Hartono doen na afzeggingen in april nu wél mee aan Billie Jean King Cup",
     "subtitle": null,
-    "published_at": "2023-10-13T12:25:06+02:00",
-    "updated_at": "2023-10-13T12:25:16+02:00",
-    "media_id": "mptxp3ja2gzg",
+    "published_at": "2023-10-13T13:06:50+02:00",
+    "updated_at": "2023-10-13T13:06:51+02:00",
+    "media_id": "id4xb19a55cj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6285182/rus-en-hartono-doen-na-afzeggingen-in-april-nu-wel-mee-aan-billie-jean-king-cup.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6285173,
+    "slug": "geen-meerderheid-in-eu-voor-verbod-op-bestrijdingsmiddel-glyfosaat",
+    "type": "article",
+    "title": "Geen meerderheid in EU voor verbod op bestrijdingsmiddel glyfosaat",
+    "subtitle": null,
+    "published_at": "2023-10-13T12:32:34+02:00",
+    "updated_at": "2023-10-13T12:54:49+02:00",
+    "media_id": "bqdx2xza28sr",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6285173/geen-meerderheid-in-eu-voor-verbod-op-bestrijdingsmiddel-glyfosaat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6285169,
+    "slug": "naar-frankrijk-gevluchte-tv-journaliste-uit-rusland-mogelijk-vergiftigd",
+    "type": "article",
+    "title": "Naar Frankrijk gevluchte tv-journaliste uit Rusland mogelijk vergiftigd",
+    "subtitle": null,
+    "published_at": "2023-10-13T12:31:47+02:00",
+    "updated_at": "2023-10-13T13:09:41+02:00",
+    "media_id": "sytxo2haaxuw",
     "duration": null,
     "canonical_section": {
       "id": 1771436,
@@ -18,18 +64,41 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6285167/dode-en-twee-zwaargewonden-door-steekpartij-op-franse-middelbare-school.html",
+    "url": "/buitenland/6285169/naar-frankrijk-gevluchte-tv-journaliste-uit-rusland-mogelijk-vergiftigd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6285167,
+    "slug": "dode-en-twee-gewonden-door-steekpartij-op-franse-middelbare-school",
+    "type": "article",
+    "title": "Dode en twee gewonden door steekpartij op Franse middelbare school",
+    "subtitle": null,
+    "published_at": "2023-10-13T12:25:06+02:00",
+    "updated_at": "2023-10-13T13:05:42+02:00",
+    "media_id": "fgzxancaunm1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6285167/dode-en-twee-gewonden-door-steekpartij-op-franse-middelbare-school.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6285158,
-    "slug": "grote-zorgen-over-snelle-evacuatie-gaza-nu-grondoffensief-israel-nabij-lijkt",
+    "slug": "grote-zorgen-over-snelle-evacuatie-gaza-ook-israel-erkent-dat-meer-tijd-nodig-is",
     "type": "article",
-    "title": "Grote zorgen over snelle evacuatie Gaza nu grondoffensief Israël nabij lijkt",
+    "title": "Grote zorgen over snelle evacuatie Gaza, ook Israël erkent dat meer tijd nodig is",
     "subtitle": null,
     "published_at": "2023-10-13T12:16:51+02:00",
-    "updated_at": "2023-10-13T12:21:11+02:00",
+    "updated_at": "2023-10-13T13:03:54+02:00",
     "media_id": "78dxszma4y5k",
     "duration": null,
     "canonical_section": {
@@ -41,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6285158/grote-zorgen-over-snelle-evacuatie-gaza-nu-grondoffensief-israel-nabij-lijkt.html",
+    "url": "/buitenland/6285158/grote-zorgen-over-snelle-evacuatie-gaza-ook-israel-erkent-dat-meer-tijd-nodig-is.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +144,7 @@
     "title": "Irakezen massaal de straat op voor pro-Palestijnse demonstratie",
     "subtitle": "Video",
     "published_at": "2023-10-13T12:12:35+02:00",
-    "updated_at": "2023-10-13T12:12:36+02:00",
+    "updated_at": "2023-10-13T12:28:48+02:00",
     "media_id": "0usxedsa5b57",
     "duration": "0:42",
     "canonical_section": {
@@ -116,12 +185,12 @@
   },
   {
     "id": 6285157,
-    "slug": "gasprijzen-stijgen-snel-na-lekkende-pijpleiding-en-sluiting-van-tamar-gasveld",
+    "slug": "gasprijzen-stijgen-snel-na-lek-in-pijpleiding-en-sluiting-van-tamar-gasveld",
     "type": "article",
-    "title": "Gasprijzen stijgen snel na lekkende pijpleiding en sluiting van Tamar-gasveld",
+    "title": "Gasprijzen stijgen snel na lek in pijpleiding en sluiting van Tamar-gasveld",
     "subtitle": null,
     "published_at": "2023-10-13T11:57:28+02:00",
-    "updated_at": "2023-10-13T12:26:48+02:00",
+    "updated_at": "2023-10-13T12:29:49+02:00",
     "media_id": "w9kxzvjaqw0w",
     "duration": null,
     "canonical_section": {
@@ -133,18 +202,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6285157/gasprijzen-stijgen-snel-na-lekkende-pijpleiding-en-sluiting-van-tamar-gasveld.html",
+    "url": "/economie/6285157/gasprijzen-stijgen-snel-na-lek-in-pijpleiding-en-sluiting-van-tamar-gasveld.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6285133,
-    "slug": "hoe-herken-je-in-een-stroom-van-nieuws-nog-wat-echt-en-vooral-nep-is",
+    "slug": "veel-berichten-over-gaza-zo-herken-je-wat-echt-en-vooral-nep-is",
     "type": "article",
-    "title": "Hoe herken je in een stroom van nieuws nog wat echt (en vooral nep) is?",
+    "title": "Veel berichten over Gaza: zo herken je wat echt (en vooral nep) is",
     "subtitle": "NU+",
     "published_at": "2023-10-13T11:51:46+02:00",
-    "updated_at": "2023-10-13T11:51:47+02:00",
+    "updated_at": "2023-10-13T12:56:03+02:00",
     "media_id": "muex627a0wbg",
     "duration": null,
     "canonical_section": {
@@ -156,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/nuverder/6285133/hoe-herken-je-in-een-stroom-van-nieuws-nog-wat-echt-en-vooral-nep-is.html",
+    "url": "/nuverder/6285133/veel-berichten-over-gaza-zo-herken-je-wat-echt-en-vooral-nep-is.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +236,7 @@
     "title": "Iconisch Spa-Francorchamps zeker tot en met 2025 op Formule 1-kalender",
     "subtitle": null,
     "published_at": "2023-10-13T11:36:12+02:00",
-    "updated_at": "2023-10-13T12:19:38+02:00",
+    "updated_at": "2023-10-13T12:56:29+02:00",
     "media_id": "t44xubxaya8d",
     "duration": null,
     "canonical_section": {
@@ -323,12 +392,12 @@
   },
   {
     "id": 6285143,
-    "slug": "gepasseerde-drummond-de-goede-mag-zich-richting-spelen-weer-bij-oranje-melden",
+    "slug": "gepasseerde-drummond-de-goede-sluit-richting-spelen-weer-aan-bij-hockeysters",
     "type": "article",
-    "title": "Gepasseerde Drummond-de Goede mag zich richting Spelen weer bij Oranje melden",
+    "title": "Gepasseerde Drummond-de Goede sluit richting Spelen weer aan bij hockeysters",
     "subtitle": null,
     "published_at": "2023-10-13T10:48:04+02:00",
-    "updated_at": "2023-10-13T11:08:25+02:00",
+    "updated_at": "2023-10-13T12:43:17+02:00",
     "media_id": "yugxqp6ar25k",
     "duration": null,
     "canonical_section": {
@@ -340,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6285143/gepasseerde-drummond-de-goede-mag-zich-richting-spelen-weer-bij-oranje-melden.html",
+    "url": "/sport-overig/6285143/gepasseerde-drummond-de-goede-sluit-richting-spelen-weer-aan-bij-hockeysters.html",
     "open_new_window": false,
     "partner": null
   },
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/tech/6285126/britten-nu-ook-akkoord-weg-vrij-voor-microsoft-om-activision-blizzard-in-te-lijven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285122,
-    "slug": "rotterdamse-woning-nageblust-na-brand-en-schietincident",
-    "type": "video",
-    "title": "Rotterdamse woning nageblust na brand en schietincident",
-    "subtitle": "Video",
-    "published_at": "2023-10-13T09:24:05+02:00",
-    "updated_at": "2023-10-13T09:24:07+02:00",
-    "media_id": "afjxheza4jir",
-    "duration": "0:40",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6285122/rotterdamse-woning-nageblust-na-brand-en-schietincident.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285121,
-    "slug": "advocaat-yehudi-moszkowicz-gearresteerd-in-belgie-en-na-verhoor-vrijgelaten",
-    "type": "article",
-    "title": "Advocaat Yehudi Moszkowicz gearresteerd in België en na verhoor vrijgelaten",
-    "subtitle": null,
-    "published_at": "2023-10-13T09:22:15+02:00",
-    "updated_at": "2023-10-13T10:54:51+02:00",
-    "media_id": "olwx2p2aexu8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6285121/advocaat-yehudi-moszkowicz-gearresteerd-in-belgie-en-na-verhoor-vrijgelaten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285118,
-    "slug": "taakstraffen-en-boetes-voor-nederlandse-bedrijven-die-hielpen-met-bouw-krimbrug",
-    "type": "article",
-    "title": "Taakstraffen en boetes voor Nederlandse bedrijven die hielpen met bouw Krimbrug",
-    "subtitle": null,
-    "published_at": "2023-10-13T09:16:49+02:00",
-    "updated_at": "2023-10-13T09:28:26+02:00",
-    "media_id": "1jyxcuaaea7d",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6285118/taakstraffen-en-boetes-voor-nederlandse-bedrijven-die-hielpen-met-bouw-krimbrug.html",
     "open_new_window": false,
     "partner": null
   }
