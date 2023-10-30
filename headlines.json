@@ -1,5 +1,28 @@
 [
   {
+    "id": 6287542,
+    "slug": "acm-onderzoekt-waarom-de-spaarrente-in-ons-land-zo-langzaam-omhoogkruipt",
+    "type": "article",
+    "title": "ACM onderzoekt waarom de spaarrente in ons land zo langzaam omhoogkruipt",
+    "subtitle": null,
+    "published_at": "2023-10-30T15:28:15+01:00",
+    "updated_at": "2023-10-30T15:28:16+01:00",
+    "media_id": "l0axy9za7n2q",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6287542/acm-onderzoekt-waarom-de-spaarrente-in-ons-land-zo-langzaam-omhoogkruipt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287538,
     "slug": "gefrustreerde-griekspoor-zet-goede-vorm-door-en-bereikt-tweede-ronde-in-parijs",
     "type": "article",
@@ -190,7 +213,7 @@
     "title": "Structureel racisme op werkvloer gemeenten: 'Risico voor alle burgers'",
     "subtitle": null,
     "published_at": "2023-10-30T14:00:01+01:00",
-    "updated_at": "2023-10-30T14:13:53+01:00",
+    "updated_at": "2023-10-30T15:33:42+01:00",
     "media_id": "mi4xy6ea8q1w",
     "duration": null,
     "canonical_section": {
@@ -277,12 +300,12 @@
   },
   {
     "id": 6287523,
-    "slug": "drie-doden-bij-bouwongeluk-in-hamburg-zeker-een-vermiste-onder-puin",
+    "slug": "vier-doden-bij-ongeluk-met-steiger-op-bouwplaats-in-duitse-stad-hamburg",
     "type": "article",
-    "title": "Drie doden bij bouwongeluk in Hamburg, zeker een vermiste onder puin",
+    "title": "Vier doden bij ongeluk met steiger op bouwplaats in Duitse stad Hamburg",
     "subtitle": null,
     "published_at": "2023-10-30T13:36:07+01:00",
-    "updated_at": "2023-10-30T15:19:46+01:00",
+    "updated_at": "2023-10-30T15:44:14+01:00",
     "media_id": "t1dxshlah4nd",
     "duration": null,
     "canonical_section": {
@@ -294,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6287523/drie-doden-bij-bouwongeluk-in-hamburg-zeker-een-vermiste-onder-puin.html",
+    "url": "/buitenland/6287523/vier-doden-bij-ongeluk-met-steiger-op-bouwplaats-in-duitse-stad-hamburg.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6287502/bomen-laten-hun-blaadjes-later-vallen-door-extreem-warme-herfst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287515,
-    "slug": "fifa-schorst-voormalig-spaanse-bondsvoorzitter-rubiales-voor-drie-jaar",
-    "type": "article",
-    "title": "FIFA schorst voormalig Spaanse bondsvoorzitter Rubiales voor drie jaar",
-    "subtitle": null,
-    "published_at": "2023-10-30T12:24:08+01:00",
-    "updated_at": "2023-10-30T13:06:01+01:00",
-    "media_id": "jfdx0brao4di",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6287515/fifa-schorst-voormalig-spaanse-bondsvoorzitter-rubiales-voor-drie-jaar.html",
     "open_new_window": false,
     "partner": null
   }
