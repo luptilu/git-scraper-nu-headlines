@@ -1,5 +1,28 @@
 [
   {
+    "id": 6288261,
+    "slug": "auto-brandt-uit-na-frontale-botsing-met-politie-in-limburg",
+    "type": "video",
+    "title": "Auto brandt uit na frontale botsing met politie in Limburg",
+    "subtitle": "Video",
+    "published_at": "2023-11-04T10:33:00+01:00",
+    "updated_at": "2023-11-04T10:33:01+01:00",
+    "media_id": "1r6x0o6astrg",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6288261/auto-brandt-uit-na-frontale-botsing-met-politie-in-limburg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288258,
     "slug": "bas-muijs-staat-na-zware-periode-weer-in-het-theater-dankbaar-dat-het-weer-kan",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6288193/verslaat-verhoeven-ook-osaro-zo-verdedigde-hij-al-tien-keer-zijn-titel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287981,
-    "slug": "energiesector-het-loont-niet-om-te-investeren-in-energieopslag",
-    "type": "article",
-    "title": "Energiesector: Het loont niet om te investeren in energieopslag",
-    "subtitle": "NU+",
-    "published_at": "2023-11-04T05:27:46+01:00",
-    "updated_at": "2023-11-04T09:07:10+01:00",
-    "media_id": "xd0xhx1agfsw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6287981/energiesector-het-loont-niet-om-te-investeren-in-energieopslag.html",
     "open_new_window": false,
     "partner": null
   }
