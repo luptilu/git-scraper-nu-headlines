@@ -1,12 +1,35 @@
 [
   {
+    "id": 6288970,
+    "slug": "interesse-nationale-kristallnachtherdenking-is-groter-dan-ooit-houden-rug-recht",
+    "type": "article",
+    "title": "Interesse Nationale Kristallnachtherdenking is groter dan ooit: 'Houden rug recht'",
+    "subtitle": null,
+    "published_at": "2023-11-09T14:28:05+01:00",
+    "updated_at": "2023-11-09T14:28:06+01:00",
+    "media_id": "7hqxsrya40y2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6288970/interesse-nationale-kristallnachtherdenking-is-groter-dan-ooit-houden-rug-recht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288990,
     "slug": "oekraine-vernielt-russisch-verdedigingssysteem-van-225-miljoen-euro",
     "type": "video",
     "title": "Oekraïne vernielt Russisch verdedigingssysteem van 22,5 miljoen euro",
     "subtitle": "Video",
     "published_at": "2023-11-09T14:18:00+01:00",
-    "updated_at": "2023-11-09T14:18:01+01:00",
+    "updated_at": "2023-11-09T14:23:37+01:00",
     "media_id": "ewbx8i5a0ony",
     "duration": "0:37",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/midden-oostenconflict/6288947/hamas-viel-israel-aan-om-palestijnse-kwestie-weer-op-de-kaart-te-zetten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288946,
-    "slug": "stijgende-lonen-zorgen-voor-nog-meer-krapte-op-de-woningmarkt",
-    "type": "article",
-    "title": "Stijgende lonen zorgen voor nóg meer krapte op de woningmarkt",
-    "subtitle": null,
-    "published_at": "2023-11-09T10:15:23+01:00",
-    "updated_at": "2023-11-09T13:25:24+01:00",
-    "media_id": "cnpxgfma6c9z",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6288946/stijgende-lonen-zorgen-voor-nog-meer-krapte-op-de-woningmarkt.html",
     "open_new_window": false,
     "partner": null
   }
