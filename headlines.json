@@ -1,5 +1,28 @@
 [
   {
+    "id": 6290221,
+    "slug": "fortuna-vrouwen-stijgt-naar-gedeelde-tweede-plek-psv-wint-bij-feyenoord",
+    "type": "article",
+    "title": "Fortuna Vrouwen stijgt naar gedeelde tweede plek, PSV wint bij Feyenoord",
+    "subtitle": null,
+    "published_at": "2023-11-17T21:33:35+01:00",
+    "updated_at": "2023-11-17T21:33:36+01:00",
+    "media_id": "a80x05baqzt8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6290221/fortuna-vrouwen-stijgt-naar-gedeelde-tweede-plek-psv-wint-bij-feyenoord.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290220,
     "slug": "ook-apple-stopt-voorlopig-met-adverteren-op-x-vanwege-antisemitisme",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Albanië plaatst zich voor tweede keer in historie voor EK na gelijkspel in Moldavië",
     "subtitle": null,
     "published_at": "2023-11-17T20:23:54+01:00",
-    "updated_at": "2023-11-17T21:11:31+01:00",
+    "updated_at": "2023-11-17T21:27:52+01:00",
     "media_id": "i00xpp1a3p39",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6290185/oekraine-meldt-dat-meer-troepen-de-dnipro-oversteken-en-successen-boeken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290184,
-    "slug": "franse-senator-aangehouden-omdat-hij-mogelijk-parlementarier-heeft-gedrogeerd",
-    "type": "article",
-    "title": "Franse senator aangehouden omdat hij mogelijk parlementariër heeft gedrogeerd",
-    "subtitle": null,
-    "published_at": "2023-11-17T16:54:00+01:00",
-    "updated_at": "2023-11-17T17:32:40+01:00",
-    "media_id": "99kxuhiaqjv5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6290184/franse-senator-aangehouden-omdat-hij-mogelijk-parlementarier-heeft-gedrogeerd.html",
     "open_new_window": false,
     "partner": null
   }
