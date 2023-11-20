@@ -1,5 +1,28 @@
 [
   {
+    "id": 6290582,
+    "slug": "lainer-keert-na-genezing-lymfeklierkanker-terug-bij-borussia-monchengladbach",
+    "type": "article",
+    "title": "Lainer keert na genezing lymfeklierkanker terug bij Borussia Mönchengladbach",
+    "subtitle": null,
+    "published_at": "2023-11-20T19:34:10+01:00",
+    "updated_at": "2023-11-20T19:42:37+01:00",
+    "media_id": "u8wxs75anjxr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6290582/lainer-keert-na-genezing-lymfeklierkanker-terug-bij-borussia-monchengladbach.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290579,
     "slug": "travis-kelce-over-relatie-met-taylor-swift-haar-familie-speelde-voor-cupido",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Vrijgesproken Mendy eist miljoenen aan onbetaald loon van Manchester City",
     "subtitle": null,
     "published_at": "2023-11-20T19:02:09+01:00",
-    "updated_at": "2023-11-20T19:02:10+01:00",
+    "updated_at": "2023-11-20T19:34:53+01:00",
     "media_id": "mb0x0ntatf3r",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "FVD-lijsttrekker Baudet naar ziekenhuis na aanval met fles in Gronings café",
     "subtitle": null,
     "published_at": "2023-11-20T18:16:52+01:00",
-    "updated_at": "2023-11-20T19:30:52+01:00",
+    "updated_at": "2023-11-20T19:44:49+01:00",
     "media_id": "elax0tqadfyw",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/film/6289500/meeleven-met-moordenaar-in-een-moord-kost-meer-levens-gebeurt-het.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290538,
-    "slug": "verdachte-aangehouden-in-duitsland-na-fatale-schietpartij-coffeeshop-amsterdam",
-    "type": "article",
-    "title": "Verdachte aangehouden in Duitsland na fatale schietpartij coffeeshop Amsterdam",
-    "subtitle": null,
-    "published_at": "2023-11-20T15:14:32+01:00",
-    "updated_at": "2023-11-20T15:14:33+01:00",
-    "media_id": "uymxlnyahygy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6290538/verdachte-aangehouden-in-duitsland-na-fatale-schietpartij-coffeeshop-amsterdam.html",
     "open_new_window": false,
     "partner": null
   }
