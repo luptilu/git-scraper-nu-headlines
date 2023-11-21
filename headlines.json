@@ -1,5 +1,28 @@
 [
   {
+    "id": 6290644,
+    "slug": "david-haakman-is-de-nieuwe-adjunct-hoofdredacteur-van-nunl",
+    "type": "article",
+    "title": "David Haakman is de nieuwe adjunct-hoofdredacteur van NU.nl",
+    "subtitle": null,
+    "published_at": "2023-11-21T11:38:10+01:00",
+    "updated_at": "2023-11-21T11:38:11+01:00",
+    "media_id": "3i4xerma5yqz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1774275,
+      "slug": "over-nu",
+      "type": "default",
+      "name": "Over NU.nl",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/over-nu/6290644/david-haakman-is-de-nieuwe-adjunct-hoofdredacteur-van-nunl.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290638,
     "slug": "na-vanmoof-is-weer-een-amsterdams-e-bikemerk-failliet",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Groep Wajongers alsnog vrijgesteld van gemeentelijke en waterschapsbelasting",
     "subtitle": null,
     "published_at": "2023-11-21T10:53:48+01:00",
-    "updated_at": "2023-11-21T10:53:51+01:00",
+    "updated_at": "2023-11-21T11:37:54+01:00",
     "media_id": "gw5x698anh9d",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Verdachte die Baudet met fles op hoofd zou hebben geslagen is minderjarige jongen",
     "subtitle": null,
     "published_at": "2023-11-21T10:45:26+01:00",
-    "updated_at": "2023-11-21T11:07:30+01:00",
+    "updated_at": "2023-11-21T11:32:30+01:00",
     "media_id": "elax0tqadfyw",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6290605/zo-breng-je-je-stem-uit-als-je-blind-of-slechtziend-bent.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290604,
-    "slug": "steeds-meer-zorgmedewerkers-zijn-zzper-een-op-negen-is-eigen-baas",
-    "type": "article",
-    "title": "Steeds meer zorgmedewerkers zijn zzp'er: een op negen is eigen baas",
-    "subtitle": null,
-    "published_at": "2023-11-21T07:35:26+01:00",
-    "updated_at": "2023-11-21T09:00:30+01:00",
-    "media_id": "yz4x3qvaujbn",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6290604/steeds-meer-zorgmedewerkers-zijn-zzper-een-op-negen-is-eigen-baas.html",
     "open_new_window": false,
     "partner": null
   }
