@@ -1,5 +1,28 @@
 [
   {
+    "id": 6290810,
+    "slug": "rabobank-krijgt-miljoenenboete-vanwege-verzwijgen-kartel-met-deutsche-bank",
+    "type": "article",
+    "title": "Rabobank krijgt miljoenenboete vanwege verzwijgen kartel met Deutsche Bank",
+    "subtitle": null,
+    "published_at": "2023-11-22T12:10:15+01:00",
+    "updated_at": "2023-11-22T12:24:45+01:00",
+    "media_id": "se3x5sdaiis0",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6290810/rabobank-krijgt-miljoenenboete-vanwege-verzwijgen-kartel-met-deutsche-bank.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290807,
     "slug": "beleefde-beer-bedelt-om-broodjes-in-roemenie",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Bagagesjouwers krijgen met 33 procent loonsverhoging meer dan vakbond wilde",
     "subtitle": null,
     "published_at": "2023-11-22T11:33:00+01:00",
-    "updated_at": "2023-11-22T12:08:18+01:00",
+    "updated_at": "2023-11-22T12:15:30+01:00",
     "media_id": "l3kx3yta1ubu",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/dieren/6290770/in-tilburg-ontsnapte-groene-gifslang-is-nog-niet-gevonden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290768,
-    "slug": "heldenrol-oud-ajacied-alvarez-en-feyenoorder-gimenez-bij-winnend-mexico",
-    "type": "article",
-    "title": "Heldenrol oud-Ajacied Álvarez en Feyenoorder Giménez bij winnend Mexico",
-    "subtitle": null,
-    "published_at": "2023-11-22T09:04:24+01:00",
-    "updated_at": "2023-11-22T09:19:56+01:00",
-    "media_id": "l7mxnvbaf212",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6290768/heldenrol-oud-ajacied-alvarez-en-feyenoorder-gimenez-bij-winnend-mexico.html",
     "open_new_window": false,
     "partner": null
   }
