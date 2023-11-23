@@ -1,5 +1,28 @@
 [
   {
+    "id": 6290998,
+    "slug": "webwinkel-bol-en-de-nederlandse-loterij-stoppen-met-adverteren-op-x",
+    "type": "article",
+    "title": "Webwinkel bol en de Nederlandse Loterij stoppen met adverteren op X",
+    "subtitle": null,
+    "published_at": "2023-11-23T14:34:13+01:00",
+    "updated_at": "2023-11-23T14:34:14+01:00",
+    "media_id": "hbsxrd9a6nmu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779219,
+      "slug": "tech-wetenschap",
+      "type": "default",
+      "name": "Tech & Wetenschap",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech-wetenschap/6290998/webwinkel-bol-en-de-nederlandse-loterij-stoppen-met-adverteren-op-x.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290999,
     "slug": "israel-bevestigt-aanhouding-directeur-al-shifa-ziekenhuis-in-gaza",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6290959/israel-treft-ijsland-in-strijd-om-laatste-drie-ek-tickets-oekraine-naar-bosnie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290966,
-    "slug": "van-der-burg-keert-terug-als-staatssecretaris-asiel-na-voedselvergiftiging",
-    "type": "article",
-    "title": "Van der Burg keert terug als staatssecretaris Asiel na voedselvergiftiging",
-    "subtitle": null,
-    "published_at": "2023-11-23T12:30:34+01:00",
-    "updated_at": "2023-11-23T13:12:05+01:00",
-    "media_id": "7vixuqxaui8u",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6290966/van-der-burg-keert-terug-als-staatssecretaris-asiel-na-voedselvergiftiging.html",
     "open_new_window": false,
     "partner": null
   }
