@@ -1,5 +1,51 @@
 [
   {
+    "id": 6291087,
+    "slug": "djokovic-bereikt-halve-finales-davis-cup-met-servie-en-treft-opnieuw-sinner",
+    "type": "article",
+    "title": "Djokovic bereikt halve finales Davis Cup met Servië en treft opnieuw Sinner",
+    "subtitle": null,
+    "published_at": "2023-11-23T23:12:43+01:00",
+    "updated_at": "2023-11-23T23:21:10+01:00",
+    "media_id": "qktxodva8w5a",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6291087/djokovic-bereikt-halve-finales-davis-cup-met-servie-en-treft-opnieuw-sinner.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291086,
+    "slug": "rellende-ieren-steken-politiewagen-in-brand-in-dublin-na-steekpartij",
+    "type": "video",
+    "title": "Rellende Ieren steken politiewagen in brand in Dublin na steekpartij",
+    "subtitle": "Video",
+    "published_at": "2023-11-23T23:03:33+01:00",
+    "updated_at": "2023-11-23T23:04:16+01:00",
+    "media_id": "0xcx58uaqci9",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6291086/rellende-ieren-steken-politiewagen-in-brand-in-dublin-na-steekpartij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291085,
     "slug": "ajax-vrouwen-vervolgt-champions-league-avontuur-met-pijnlijk-verlies-bij-roma",
     "type": "article",
@@ -121,7 +167,7 @@
     "title": "Utrechters demonstreren tegen verkiezingswinst PVV",
     "subtitle": "Video",
     "published_at": "2023-11-23T21:35:31+01:00",
-    "updated_at": "2023-11-23T21:35:32+01:00",
+    "updated_at": "2023-11-23T23:28:16+01:00",
     "media_id": "4ksx3e5ax0zk",
     "duration": "0:59",
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6291061/wereldkampioen-di-maria-35-stopt-na-copa-america-als-argentijns-international.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291054,
-    "slug": "rijkswaterstaat-sluit-stormvloedkeringen-vanwege-combinatie-van-situaties",
-    "type": "article",
-    "title": "Rijkswaterstaat sluit stormvloedkeringen vanwege 'combinatie van situaties'",
-    "subtitle": null,
-    "published_at": "2023-11-23T18:48:27+01:00",
-    "updated_at": "2023-11-23T20:12:19+01:00",
-    "media_id": "lzvxfuia9592",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6291054/rijkswaterstaat-sluit-stormvloedkeringen-vanwege-combinatie-van-situaties.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291059,
-    "slug": "davis-cup-team-baalt-van-uitschakeling-tegen-italie-het-was-de-sinner-show",
-    "type": "article",
-    "title": "Davis Cup-team baalt van uitschakeling tegen Italië: 'Het was de Sinner-show'",
-    "subtitle": null,
-    "published_at": "2023-11-23T18:43:48+01:00",
-    "updated_at": "2023-11-23T22:59:34+01:00",
-    "media_id": "rrxxhl7akej1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6291059/davis-cup-team-baalt-van-uitschakeling-tegen-italie-het-was-de-sinner-show.html",
     "open_new_window": false,
     "partner": null
   }
