@@ -1,5 +1,28 @@
 [
   {
+    "id": 6291198,
+    "slug": "uwv-draait-700-boetes-terug-vanwege-onrechtmatig-verkregen-gegevens",
+    "type": "article",
+    "title": "UWV draait 700 boetes terug vanwege onrechtmatig verkregen gegevens",
+    "subtitle": null,
+    "published_at": "2023-11-24T17:26:17+01:00",
+    "updated_at": "2023-11-24T17:26:19+01:00",
+    "media_id": "fwqx5f4a2vun",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6291198/uwv-draait-700-boetes-terug-vanwege-onrechtmatig-verkregen-gegevens.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291201,
     "slug": "verstappen-ruziet-met-mercedes-coureurs-bij-uitrijden-pitstraat",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6291167/veel-stakingen-bij-amazon-op-drukke-black-friday.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291165,
-    "slug": "tweede-minderjarige-verdachte-van-aanval-op-baudet-komt-vrij-blijft-verdachte",
-    "type": "article",
-    "title": "Tweede minderjarige verdachte van aanval op Baudet komt vrij, blijft verdachte",
-    "subtitle": null,
-    "published_at": "2023-11-24T13:59:18+01:00",
-    "updated_at": "2023-11-24T15:17:52+01:00",
-    "media_id": "7blxt7yakndd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6291165/tweede-minderjarige-verdachte-van-aanval-op-baudet-komt-vrij-blijft-verdachte.html",
     "open_new_window": false,
     "partner": null
   }
