@@ -1,12 +1,35 @@
 [
   {
+    "id": 6294055,
+    "slug": "ecb-houdt-rente-ongewijzigd-omdat-prijzen-steeds-minder-stijgen",
+    "type": "article",
+    "title": "ECB houdt rente ongewijzigd omdat prijzen steeds minder stijgen",
+    "subtitle": null,
+    "published_at": "2023-12-14T14:30:23+01:00",
+    "updated_at": "2023-12-14T14:30:25+01:00",
+    "media_id": "he3xzjdapa11",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6294055/ecb-houdt-rente-ongewijzigd-omdat-prijzen-steeds-minder-stijgen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6294053,
     "slug": "hardlopers-rennen-met-20-graden-over-ijsvlaktes-in-antarctica",
     "type": "video",
     "title": "Hardlopers rennen met -20 graden over ijsvlaktes in Antarctica",
     "subtitle": "Video",
     "published_at": "2023-12-14T14:19:16+01:00",
-    "updated_at": "2023-12-14T14:19:17+01:00",
+    "updated_at": "2023-12-14T14:32:48+01:00",
     "media_id": "164xn5ra3e54",
     "duration": "0:59",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6293552/dit-zijn-de-kandidaten-die-meedoen-aan-de-wintereditie-van-bb-vol-liefde.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294030,
-    "slug": "paul-litjens-topscorer-aller-tijden-oranjehockeyers-op-76-jarige-leeftijd-overleden",
-    "type": "article",
-    "title": "Paul Litjens, topscorer aller tijden Oranjehockeyers, op 76-jarige leeftijd overleden",
-    "subtitle": null,
-    "published_at": "2023-12-14T11:56:27+01:00",
-    "updated_at": "2023-12-14T12:28:00+01:00",
-    "media_id": "weexkoda3nak",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6294030/paul-litjens-topscorer-aller-tijden-oranjehockeyers-op-76-jarige-leeftijd-overleden.html",
     "open_new_window": false,
     "partner": null
   }
