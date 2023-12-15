@@ -1,5 +1,28 @@
 [
   {
+    "id": 6294272,
+    "slug": "chinese-webwinkel-temu-beschuldigt-concurrent-shein-van-maffiapraktijken",
+    "type": "article",
+    "title": "Chinese webwinkel Temu beschuldigt concurrent Shein van maffiapraktijken",
+    "subtitle": null,
+    "published_at": "2023-12-15T17:37:51+01:00",
+    "updated_at": "2023-12-15T17:37:53+01:00",
+    "media_id": "ab5xjhuar1xj",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6294272/chinese-webwinkel-temu-beschuldigt-concurrent-shein-van-maffiapraktijken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6294257,
     "slug": "buschauffeur-die-in-utrecht-zevenjarig-meisje-doodreed-niet-vervolgd",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6294224/steeds-meer-mensen-vieren-oud-en-nieuw-in-een-vuurwerkvrij-vakantiepark.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294234,
-    "slug": "kuipers-hoopt-dat-meer-mensen-zich-weer-laten-vaccineren",
-    "type": "video",
-    "title": "Kuipers hoopt dat meer mensen zich weer laten vaccineren",
-    "subtitle": "Video",
-    "published_at": "2023-12-15T15:12:38+01:00",
-    "updated_at": "2023-12-15T15:12:40+01:00",
-    "media_id": "rbaxulea3cvr",
-    "duration": "1:17",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6294234/kuipers-hoopt-dat-meer-mensen-zich-weer-laten-vaccineren.html",
     "open_new_window": false,
     "partner": null
   }
