@@ -1,12 +1,35 @@
 [
   {
+    "id": 6295633,
+    "slug": "satirisch-programma-promenade-keert-in-2025-terug-op-televisie",
+    "type": "article",
+    "title": "Satirisch programma Promenade keert in 2025 terug op televisie",
+    "subtitle": null,
+    "published_at": "2023-12-26T11:17:29+01:00",
+    "updated_at": "2023-12-26T11:17:30+01:00",
+    "media_id": "ni9x6reaqr46",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6295633/satirisch-programma-promenade-keert-in-2025-terug-op-televisie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295627,
     "slug": "pakken-van-mensen-die-te-vroeg-vuurwerk-afsteken-moet-meer-prioriteit-krijgen",
     "type": "article",
     "title": "'Pakken van mensen die te vroeg vuurwerk afsteken moet meer prioriteit krijgen'",
     "subtitle": "Stelling",
     "published_at": "2023-12-26T11:14:24+01:00",
-    "updated_at": "2023-12-26T11:14:25+01:00",
+    "updated_at": "2023-12-26T11:28:08+01:00",
     "media_id": "hj3xoi5a11ra",
     "duration": null,
     "canonical_section": {
@@ -47,12 +70,12 @@
   },
   {
     "id": 6295628,
-    "slug": "burgemeester-in-nieuw-zeeland-stoppen-met-poepen-niet-nodig-ondanks-rioollucht",
+    "slug": "inwoners-nieuw-zeelandse-stad-mogen-ondanks-rioollucht-gewoon-poepen",
     "type": "article",
-    "title": "Burgemeester in Nieuw-Zeeland: stoppen met poepen niet nodig ondanks rioollucht",
+    "title": "Inwoners Nieuw-Zeelandse stad mogen ondanks rioollucht gewoon poepen",
     "subtitle": null,
     "published_at": "2023-12-26T11:03:13+01:00",
-    "updated_at": "2023-12-26T11:03:15+01:00",
+    "updated_at": "2023-12-26T11:24:35+01:00",
     "media_id": "dnoxmq3amp8o",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/opmerkelijk/6295628/burgemeester-in-nieuw-zeeland-stoppen-met-poepen-niet-nodig-ondanks-rioollucht.html",
+    "url": "/opmerkelijk/6295628/inwoners-nieuw-zeelandse-stad-mogen-ondanks-rioollucht-gewoon-poepen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +98,7 @@
     "title": "Navalny laat van zich horen via sociale media: 'Het gaat goed met me'",
     "subtitle": null,
     "published_at": "2023-12-26T10:55:39+01:00",
-    "updated_at": "2023-12-26T10:55:40+01:00",
+    "updated_at": "2023-12-26T11:26:36+01:00",
     "media_id": "cfcxe99a2hlm",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/slimmer-leven/6294882/neem-geen-genoegen-met-de-router-die-je-provider-meestuurt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294930,
-    "slug": "veilig-gourmetten-doe-je-zo-pas-op-met-rauw-vlees",
-    "type": "article",
-    "title": "Veilig gourmetten doe je zo: pas op met rauw vlees",
-    "subtitle": "NU+",
-    "published_at": "2023-12-26T05:03:43+01:00",
-    "updated_at": "2023-12-26T05:03:44+01:00",
-    "media_id": "o66xzdfahc69",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779328,
-      "slug": "slimmer-leven",
-      "type": "default",
-      "name": "Slimmer leven",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/slimmer-leven/6294930/veilig-gourmetten-doe-je-zo-pas-op-met-rauw-vlees.html",
     "open_new_window": false,
     "partner": null
   }
