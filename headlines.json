@@ -1,12 +1,35 @@
 [
   {
+    "id": 6295927,
+    "slug": "bergsma-stelt-teleur-op-5000-meter-bij-nk-superieure-roest-pakt-vijfde-titel",
+    "type": "article",
+    "title": "Bergsma stelt teleur op 5.000 meter bij NK, superieure Roest pakt vijfde titel",
+    "subtitle": null,
+    "published_at": "2023-12-28T19:45:51+01:00",
+    "updated_at": "2023-12-28T19:45:52+01:00",
+    "media_id": "6zpxtnfazdsz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6295927/bergsma-stelt-teleur-op-5000-meter-bij-nk-superieure-roest-pakt-vijfde-titel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295917,
     "slug": "taxichauffeurs-op-vliegveld-brussel-staken-vanwege-verplicht-examen-nederlands",
     "type": "article",
     "title": "Taxichauffeurs op vliegveld Brussel staken vanwege verplicht examen Nederlands",
     "subtitle": null,
     "published_at": "2023-12-28T19:00:56+01:00",
-    "updated_at": "2023-12-28T19:11:50+01:00",
+    "updated_at": "2023-12-28T19:32:27+01:00",
     "media_id": "2ttxdqbaq90o",
     "duration": null,
     "canonical_section": {
@@ -93,13 +116,13 @@
   },
   {
     "id": 6295910,
-    "slug": "live-nk-schaatsen-bergsma-wil-zich-revancheren-op-5000-meter-na-matig-wckt",
+    "slug": "live-nk-schaatsen-reacties-na-nieuwe-zege-op-5000-meter-voor-patrick-roest",
     "type": "article",
-    "title": "Live NK schaatsen | Bergsma wil zich revancheren op 5.000 meter na matig WCKT",
+    "title": "Live NK schaatsen | Reacties na nieuwe zege op 5.000 meter voor Patrick Roest",
     "subtitle": null,
     "published_at": "2023-12-28T18:00:01+01:00",
-    "updated_at": "2023-12-28T19:22:17+01:00",
-    "media_id": "tgpx3ebassxz",
+    "updated_at": "2023-12-28T19:46:21+01:00",
+    "media_id": "2t8xd2xai9z9",
     "duration": null,
     "canonical_section": {
       "id": 149,
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport/6295910/live-nk-schaatsen-bergsma-wil-zich-revancheren-op-5000-meter-na-matig-wckt.html",
+    "url": "/sport/6295910/live-nk-schaatsen-reacties-na-nieuwe-zege-op-5000-meter-voor-patrick-roest.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6295886/apen-geevacueerd-uit-duitse-dierentuin-vanwege-noodweer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295887,
-    "slug": "dirk-kuijt-begint-bij-belgisch-beerschot-aan-tweede-klus-als-hoofdtrainer",
-    "type": "article",
-    "title": "Dirk Kuijt begint bij Belgisch Beerschot aan tweede klus als hoofdtrainer",
-    "subtitle": null,
-    "published_at": "2023-12-28T15:03:20+01:00",
-    "updated_at": "2023-12-28T18:53:29+01:00",
-    "media_id": "serxo45aod7f",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6295887/dirk-kuijt-begint-bij-belgisch-beerschot-aan-tweede-klus-als-hoofdtrainer.html",
     "open_new_window": false,
     "partner": null
   }
