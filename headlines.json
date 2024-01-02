@@ -1,13 +1,36 @@
 [
   {
+    "id": 6296373,
+    "slug": "nederland-op-achterstand-tegen-kroatie-op-united-cup-na-verlies-griekspoor",
+    "type": "article",
+    "title": "Nederland op achterstand tegen Kroatië op United Cup na verlies Griekspoor",
+    "subtitle": null,
+    "published_at": "2024-01-02T09:49:32+01:00",
+    "updated_at": "2024-01-02T09:49:33+01:00",
+    "media_id": "u2lxvwoay84b",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6296373/nederland-op-achterstand-tegen-kroatie-op-united-cup-na-verlies-griekspoor.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296379,
     "slug": "90210-acteur-ian-ziering-ongedeerd-na-aanval-door-motorrijders",
     "type": "article",
     "title": "90210-acteur Ian Ziering ongedeerd na aanval door motorrijders",
     "subtitle": null,
     "published_at": "2024-01-02T09:46:04+01:00",
-    "updated_at": "2024-01-02T09:46:05+01:00",
-    "media_id": "8ukxtemagyvj",
+    "updated_at": "2024-01-02T09:49:10+01:00",
+    "media_id": "7htxl7ha6wem",
     "duration": null,
     "canonical_section": {
       "id": 125,
@@ -121,7 +144,7 @@
     "title": "Doden en tientallen gewonden bij Russische aanvallen op Oekraïense steden",
     "subtitle": null,
     "published_at": "2024-01-02T08:44:02+01:00",
-    "updated_at": "2024-01-02T09:38:18+01:00",
+    "updated_at": "2024-01-02T10:14:38+01:00",
     "media_id": "i47xi98ayms5",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/slimmer-leven/6296016/een-maand-geen-alcohol-drinken-zo-pak-je-dat-aan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295711,
-    "slug": "de-rechter-die-voor-andere-aanpak-pleit-het-strafrecht-is-van-ons-allemaal",
-    "type": "article",
-    "title": "De rechter die voor andere aanpak pleit: 'Het strafrecht is van ons allemaal'",
-    "subtitle": null,
-    "published_at": "2024-01-02T05:01:08+01:00",
-    "updated_at": "2024-01-02T09:24:58+01:00",
-    "media_id": "vy3xakqaqzsk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6295711/de-rechter-die-voor-andere-aanpak-pleit-het-strafrecht-is-van-ons-allemaal.html",
     "open_new_window": false,
     "partner": null
   }
