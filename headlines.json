@@ -1,5 +1,28 @@
 [
   {
+    "id": 6297013,
+    "slug": "reijnders-wint-met-ac-milan-ook-van-empoli-en-verstevigt-derde-plek-in-serie-a",
+    "type": "article",
+    "title": "Reijnders wint met AC Milan ook van Empoli en verstevigt derde plek in Serie A",
+    "subtitle": null,
+    "published_at": "2024-01-07T14:25:51+01:00",
+    "updated_at": "2024-01-07T14:25:52+01:00",
+    "media_id": "5jbxhn5aa39r",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6297013/reijnders-wint-met-ac-milan-ook-van-empoli-en-verstevigt-derde-plek-in-serie-a.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297005,
     "slug": "eerste-afvaller-wie-is-de-mol-als-ik-had-gelogen-was-ik-er-nog",
     "type": "article",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6297006,
-    "slug": "live-ek-schaatsen-slotdag-gaat-van-start-met-ploegenachtervolging-voor-vrouwen",
+    "slug": "live-ek-schaatsen-schaatssters-leiden-overtuigend-op-ploegenachtervolging",
     "type": "article",
-    "title": "Live EK schaatsen | Slotdag gaat van start met ploegenachtervolging voor vrouwen",
+    "title": "Live EK schaatsen | Schaatssters leiden overtuigend op ploegenachtervolging",
     "subtitle": null,
     "published_at": "2024-01-07T13:40:04+01:00",
-    "updated_at": "2024-01-07T14:13:18+01:00",
+    "updated_at": "2024-01-07T14:24:28+01:00",
     "media_id": "px3xctya8u4v",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6297006/live-ek-schaatsen-slotdag-gaat-van-start-met-ploegenachtervolging-voor-vrouwen.html",
+    "url": "/schaatsen/6297006/live-ek-schaatsen-schaatssters-leiden-overtuigend-op-ploegenachtervolging.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +167,7 @@
     "title": "Jodie Foster vindt generatie Z 'erg vervelend om mee te werken'",
     "subtitle": null,
     "published_at": "2024-01-07T12:00:34+01:00",
-    "updated_at": "2024-01-07T12:11:03+01:00",
+    "updated_at": "2024-01-07T14:23:39+01:00",
     "media_id": "i4sxcvza0fc5",
     "duration": null,
     "canonical_section": {
@@ -351,7 +374,7 @@
     "title": "Nadal loopt kort na rentree nieuwe blessure op en mist Australian Open",
     "subtitle": null,
     "published_at": "2024-01-07T10:15:37+01:00",
-    "updated_at": "2024-01-07T11:01:16+01:00",
+    "updated_at": "2024-01-07T14:25:40+01:00",
     "media_id": "4ttxmb4afdhq",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6296991/ed-sheeran-wint-eerste-emmy-voor-nummer-in-serie-ted-lasso.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296990,
-    "slug": "baas-van-dale-vindt-dat-oh-oh-cherso-het-nederlands-blijvend-beinvloedt",
-    "type": "article",
-    "title": "Baas Van Dale vindt dat Oh Oh Cherso het Nederlands blijvend beïnvloedt",
-    "subtitle": null,
-    "published_at": "2024-01-07T09:23:24+01:00",
-    "updated_at": "2024-01-07T10:33:07+01:00",
-    "media_id": "cbvx602a04vt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6296990/baas-van-dale-vindt-dat-oh-oh-cherso-het-nederlands-blijvend-beinvloedt.html",
     "open_new_window": false,
     "partner": null
   }
