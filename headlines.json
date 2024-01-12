@@ -1,12 +1,35 @@
 [
   {
-    "id": 6297542,
-    "slug": "tom-cruise-gaat-na-succesvol-vervolg-derde-top-gun-film-maken",
+    "id": 6297543,
+    "slug": "fors-meer-bedrijven-gingen-vorig-jaar-op-de-fles",
     "type": "article",
-    "title": "Tom Cruise gaat na succesvol vervolg derde Top Gun-film maken",
+    "title": "Fors meer bedrijven gingen vorig jaar op de fles",
+    "subtitle": null,
+    "published_at": "2024-01-12T07:36:11+01:00",
+    "updated_at": "2024-01-12T07:41:10+01:00",
+    "media_id": "bk2x7gva3wbx",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6297543/fors-meer-bedrijven-gingen-vorig-jaar-op-de-fles.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6297542,
+    "slug": "tom-cruise-gaat-derde-top-gun-film-maken-na-succes-tweede-deel",
+    "type": "article",
+    "title": "Tom Cruise gaat derde Top Gun-film maken na succes tweede deel",
     "subtitle": null,
     "published_at": "2024-01-12T07:31:08+01:00",
-    "updated_at": "2024-01-12T07:31:19+01:00",
+    "updated_at": "2024-01-12T07:44:32+01:00",
     "media_id": "tj0xm08aafb8",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/film/6297542/tom-cruise-gaat-na-succesvol-vervolg-derde-top-gun-film-maken.html",
+    "url": "/film/6297542/tom-cruise-gaat-derde-top-gun-film-maken-na-succes-tweede-deel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Derde explosie in een week tijd in straat in Vlaardingen",
     "subtitle": null,
     "published_at": "2024-01-12T07:28:07+01:00",
-    "updated_at": "2024-01-12T07:28:09+01:00",
+    "updated_at": "2024-01-12T07:33:54+01:00",
     "media_id": "y5zxay1akw7z",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Code oranje in Brabant en Limburg, ook elders nog oppassen voor ijzel",
     "subtitle": null,
     "published_at": "2024-01-12T06:49:27+01:00",
-    "updated_at": "2024-01-12T06:52:32+01:00",
+    "updated_at": "2024-01-12T07:34:45+01:00",
     "media_id": "v9qxi5oakm3v",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6297527/duiker-redt-pijlstaartrog-van-vishaak-in-caribische-zee.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297526,
-    "slug": "tesla-schort-productie-in-fabriek-berlijn-op-om-situatie-rode-zee",
-    "type": "article",
-    "title": "Tesla schort productie in fabriek Berlijn op om situatie Rode Zee",
-    "subtitle": null,
-    "published_at": "2024-01-11T22:06:11+01:00",
-    "updated_at": "2024-01-11T22:10:25+01:00",
-    "media_id": "0cqxh1gais26",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6297526/tesla-schort-productie-in-fabriek-berlijn-op-om-situatie-rode-zee.html",
     "open_new_window": false,
     "partner": null
   }
