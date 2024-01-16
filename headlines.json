@@ -1,5 +1,28 @@
 [
   {
+    "id": 6297969,
+    "slug": "coach-mourinho-per-direct-weg-bij-feyenoord-tegenstander-as-roma",
+    "type": "article",
+    "title": "Coach Mourinho per direct weg bij Feyenoord-tegenstander AS Roma",
+    "subtitle": null,
+    "published_at": "2024-01-16T09:32:35+01:00",
+    "updated_at": "2024-01-16T09:41:17+01:00",
+    "media_id": "42zxdc8a5335",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6297969/coach-mourinho-per-direct-weg-bij-feyenoord-tegenstander-as-roma.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297963,
     "slug": "vrachtwagen-vol-dopertwen-rijdt-van-viaduct-af-bij-dommelen",
     "type": "article",
@@ -259,7 +282,7 @@
     "title": "Problemen op het spoor door winterweer: op veel trajecten treinen uitgevallen",
     "subtitle": null,
     "published_at": "2024-01-16T07:56:05+01:00",
-    "updated_at": "2024-01-16T09:07:14+01:00",
+    "updated_at": "2024-01-16T09:43:05+01:00",
     "media_id": "7ncxd0eabjfh",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/film/6297947/overzicht-de-belangrijkste-emmy-winnaars-van-2023.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297904,
-    "slug": "steeds-meer-huurhuizen-worden-al-even-onbetaalbare-koopwoningen",
-    "type": "article",
-    "title": "Steeds meer huurhuizen worden al even onbetaalbare koopwoningen",
-    "subtitle": null,
-    "published_at": "2024-01-16T07:02:07+01:00",
-    "updated_at": "2024-01-16T08:54:58+01:00",
-    "media_id": "zhsxu1pa4jxm",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6297904/steeds-meer-huurhuizen-worden-al-even-onbetaalbare-koopwoningen.html",
     "open_new_window": false,
     "partner": null
   }
