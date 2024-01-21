@@ -1,5 +1,28 @@
 [
   {
+    "id": 6298657,
+    "slug": "politie-bekogeld-met-vuurwerk-en-stenen-bij-gelredome",
+    "type": "video",
+    "title": "Politie bekogeld met vuurwerk en stenen bij GelreDome",
+    "subtitle": "Video",
+    "published_at": "2024-01-21T21:25:19+01:00",
+    "updated_at": "2024-01-21T21:25:21+01:00",
+    "media_id": "hmyxtx9ado3a",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6298657/politie-bekogeld-met-vuurwerk-en-stenen-bij-gelredome.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298656,
     "slug": "republikein-desantis-stapt-uit-race-voor-presidentschap-vs-en-steunt-trump",
     "type": "article",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6298644,
-    "slug": "doden-bij-aanval-op-markt-in-door-russen-bezet-gebied-explosies-bij-gasterminal",
+    "slug": "doden-bij-aanval-in-bezet-gebied-oekraine-explosies-bij-gasterminal",
     "type": "article",
-    "title": "Doden bij aanval op markt in door Russen bezet gebied, explosies bij gasterminal",
+    "title": "Doden bij aanval in bezet gebied Oekraïne, explosies bij gasterminal",
     "subtitle": "Overzicht",
     "published_at": "2024-01-21T20:02:27+01:00",
-    "updated_at": "2024-01-21T20:15:42+01:00",
+    "updated_at": "2024-01-21T21:20:46+01:00",
     "media_id": "6a7xze3anx21",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6298644/doden-bij-aanval-op-markt-in-door-russen-bezet-gebied-explosies-bij-gasterminal.html",
+    "url": "/spanningen-oekraine/6298644/doden-bij-aanval-in-bezet-gebied-oekraine-explosies-bij-gasterminal.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6298638/ecuadoraanse-autoriteiten-onderscheppen-50-miljoen-dollar-aan-cocaine.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298637,
-    "slug": "van-der-poel-viel-door-botsing-met-stootkussen-maar-had-geen-frisse-benen",
-    "type": "article",
-    "title": "Van der Poel viel door botsing met stootkussen: 'Maar had geen frisse benen'",
-    "subtitle": null,
-    "published_at": "2024-01-21T18:04:16+01:00",
-    "updated_at": "2024-01-21T18:09:48+01:00",
-    "media_id": "u5sxjy1agik8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6298637/van-der-poel-viel-door-botsing-met-stootkussen-maar-had-geen-frisse-benen.html",
     "open_new_window": false,
     "partner": null
   }
