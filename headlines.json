@@ -1,12 +1,35 @@
 [
   {
+    "id": 6300315,
+    "slug": "taylor-swift-miley-cyrus-en-billie-eilish-winnen-belangrijkste-grammys",
+    "type": "article",
+    "title": "Taylor Swift, Miley Cyrus en Billie Eilish winnen belangrijkste Grammy's",
+    "subtitle": null,
+    "published_at": "2024-02-05T06:19:47+01:00",
+    "updated_at": "2024-02-05T06:19:48+01:00",
+    "media_id": "6wfxt0ra2z8x",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6300315/taylor-swift-miley-cyrus-en-billie-eilish-winnen-belangrijkste-grammys.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300316,
     "slug": "grotendeels-droge-dag-met-hier-en-daar-wat-zon",
     "type": "article",
-    "title": "Grotendeels droge dag, met hier en daar wat zon",
+    "title": "Grotendeels droge dag met hier en daar wat zon",
     "subtitle": "Weerbericht",
     "published_at": "2024-02-05T06:17:18+01:00",
-    "updated_at": "2024-02-05T06:17:19+01:00",
+    "updated_at": "2024-02-05T06:19:57+01:00",
     "media_id": "8ihxz4ba5hwb",
     "duration": null,
     "canonical_section": {
@@ -374,7 +397,7 @@
     "title": "Boerenactie in poging Duitse grens te blokkeren over, A7 Scheemda weer open",
     "subtitle": null,
     "published_at": "2024-02-04T21:09:12+01:00",
-    "updated_at": "2024-02-04T21:16:36+01:00",
+    "updated_at": "2024-02-05T06:17:44+01:00",
     "media_id": "iwrxv50aef1h",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6300302/radio-icoon-en-candlelight-presentator-jan-van-veen-79-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300184,
-    "slug": "goed-nieuws-deze-week-gevoelige-geiten-en-wereldkampioen-zonnepanelen",
-    "type": "article",
-    "title": "Goed nieuws deze week: gevoelige geiten en wereldkampioen zonnepanelen",
-    "subtitle": null,
-    "published_at": "2024-02-04T20:01:15+01:00",
-    "updated_at": "2024-02-05T05:11:28+01:00",
-    "media_id": "k7nxfsoaujoa",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779220,
-      "slug": "goed-nieuws",
-      "type": "default",
-      "name": "Goed nieuws",
-      "style": "nuoverig",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/goed-nieuws/6300184/goed-nieuws-deze-week-gevoelige-geiten-en-wereldkampioen-zonnepanelen.html",
     "open_new_window": false,
     "partner": null
   }
