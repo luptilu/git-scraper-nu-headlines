@@ -1,12 +1,35 @@
 [
   {
+    "id": 6301163,
+    "slug": "weerbericht-na-een-nat-en-winderig-begin-laat-de-zon-zich-veelvuldig-zien",
+    "type": "article",
+    "title": "Weerbericht | Na een nat en winderig begin laat de zon zich veelvuldig zien",
+    "subtitle": null,
+    "published_at": "2024-02-12T06:15:31+01:00",
+    "updated_at": "2024-02-12T06:15:42+01:00",
+    "media_id": "zfuxcyxalg4x",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6301163/weerbericht-na-een-nat-en-winderig-begin-laat-de-zon-zich-veelvuldig-zien.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301162,
     "slug": "sterspeler-mahomes-leidt-kansas-city-chiefs-naar-tweede-super-bowl-winst-op-rij",
     "type": "article",
     "title": "Sterspeler Mahomes leidt Kansas City Chiefs naar tweede Super Bowl-winst op rij",
     "subtitle": null,
     "published_at": "2024-02-12T05:45:32+01:00",
-    "updated_at": "2024-02-12T05:45:33+01:00",
+    "updated_at": "2024-02-12T05:56:33+01:00",
     "media_id": "ht4xdttaqsmy",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Wereldrecordhouder op marathon Kelvin Kiptum (24) overleden bij verkeersongeval",
     "subtitle": null,
     "published_at": "2024-02-12T00:32:19+01:00",
-    "updated_at": "2024-02-12T01:18:28+01:00",
+    "updated_at": "2024-02-12T06:15:22+01:00",
     "media_id": "72uxiy1ae78i",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6301145/huntelaar-15-stunt-met-nationale-squashtitel-en-mag-dromen-van-spelen-in-2028.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301144,
-    "slug": "stroomstoring-in-carnaval-vierend-oss-verholpen",
-    "type": "article",
-    "title": "Stroomstoring in carnaval vierend Oss verholpen",
-    "subtitle": null,
-    "published_at": "2024-02-11T18:56:03+01:00",
-    "updated_at": "2024-02-11T22:40:37+01:00",
-    "media_id": "ssuxajyawdsc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6301144/stroomstoring-in-carnaval-vierend-oss-verholpen.html",
     "open_new_window": false,
     "partner": null
   }
