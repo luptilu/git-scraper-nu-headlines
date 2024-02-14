@@ -1,5 +1,28 @@
 [
   {
+    "id": 6301231,
+    "slug": "je-huis-op-orde-spullen-in-bakken-en-alles-gelabeld-hoe-doe-je-dat",
+    "type": "article",
+    "title": "Je huis op orde, spullen in bakken en alles gelabeld: hoe doe je dat?",
+    "subtitle": null,
+    "published_at": "2024-02-14T14:17:14+01:00",
+    "updated_at": "2024-02-14T14:17:15+01:00",
+    "media_id": "hcxx1hbamrd6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779328,
+      "slug": "slimmer-leven",
+      "type": "default",
+      "name": "Slimmer leven",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/slimmer-leven/6301231/je-huis-op-orde-spullen-in-bakken-en-alles-gelabeld-hoe-doe-je-dat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301494,
     "slug": "junior-eurovisie-songfestival-vindt-dit-jaar-voor-het-eerst-plaats-in-spanje",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Nieuw team moet drugssmokkel per post lastiger maken en daders opsporen",
     "subtitle": null,
     "published_at": "2024-02-14T14:12:05+01:00",
-    "updated_at": "2024-02-14T14:12:06+01:00",
+    "updated_at": "2024-02-14T14:26:29+01:00",
     "media_id": "ji5x1wqatk5t",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Waar is Desi Bouterse? 'In Suriname is dit al een vergeten zaak'",
     "subtitle": "NU+",
     "published_at": "2024-02-14T12:52:18+01:00",
-    "updated_at": "2024-02-14T12:52:19+01:00",
+    "updated_at": "2024-02-14T14:18:21+01:00",
     "media_id": "jmvxjg6as382",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6301475/autos-drijven-door-turkse-stad-na-hevige-regenval.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301473,
-    "slug": "verdacht-pakketje-israelische-ambassadeurswoning-blijkt-verkeerd-bezorgd",
-    "type": "article",
-    "title": "Verdacht pakketje Israëlische ambassadeurswoning blijkt verkeerd bezorgd",
-    "subtitle": null,
-    "published_at": "2024-02-14T11:46:27+01:00",
-    "updated_at": "2024-02-14T12:04:31+01:00",
-    "media_id": "iygxwjnayr86",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6301473/verdacht-pakketje-israelische-ambassadeurswoning-blijkt-verkeerd-bezorgd.html",
     "open_new_window": false,
     "partner": null
   }
