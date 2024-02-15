@@ -1,5 +1,28 @@
 [
   {
+    "id": 6301691,
+    "slug": "nederland-voldoet-nu-niet-maar-misschien-toch-ook-wel-aan-navo-budgetnorm",
+    "type": "article",
+    "title": "Nederland voldoet nu niet, maar misschien toch ook wél aan NAVO-budgetnorm",
+    "subtitle": null,
+    "published_at": "2024-02-15T19:24:25+01:00",
+    "updated_at": "2024-02-15T19:24:27+01:00",
+    "media_id": "7u2x098afafc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779258,
+      "slug": "binnenland-en-buitenland",
+      "type": "default",
+      "name": "Binnen- en buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland-en-buitenland/6301691/nederland-voldoet-nu-niet-maar-misschien-toch-ook-wel-aan-navo-budgetnorm.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301690,
     "slug": "theo-maassen-maakt-televisieprogramma-over-duitse-en-nederlandse-cultuur",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Patricia Veldhuis wordt nieuwe hoofdredacteur NRC",
     "subtitle": null,
     "published_at": "2024-02-15T19:03:19+01:00",
-    "updated_at": "2024-02-15T19:03:20+01:00",
+    "updated_at": "2024-02-15T19:25:30+01:00",
     "media_id": "wczxqzha8t7w",
     "duration": null,
     "canonical_section": {
@@ -185,13 +208,13 @@
   },
   {
     "id": 6301681,
-    "slug": "live-europees-voetbal-feyenoorder-paixao-mist-kans-op-1-0-tegen-as-roma",
+    "slug": "live-europees-voetbal-feyenoord-en-roma-krijgen-kansen-in-enerverend-duel",
     "type": "article",
-    "title": "Live Europees voetbal | Feyenoorder Paixão mist kans op 1-0 tegen AS Roma",
+    "title": "Live Europees voetbal | Feyenoord en Roma krijgen kansen in enerverend duel",
     "subtitle": null,
     "published_at": "2024-02-15T18:08:10+01:00",
-    "updated_at": "2024-02-15T19:11:48+01:00",
-    "media_id": "untxs6ya8smb",
+    "updated_at": "2024-02-15T19:22:28+01:00",
+    "media_id": "tcaxaozau7ew",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6301681/live-europees-voetbal-feyenoorder-paixao-mist-kans-op-1-0-tegen-as-roma.html",
+    "url": "/voetbal/6301681/live-europees-voetbal-feyenoord-en-roma-krijgen-kansen-in-enerverend-duel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6301669/justitie-neemt-negen-panden-van-quincy-promes-in-beslag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301668,
-    "slug": "shakira-sneert-met-eerste-album-in-zeven-jaar-tijd-opnieuw-naar-haar-ex-pique",
-    "type": "article",
-    "title": "Shakira sneert met eerste album in zeven jaar tijd opnieuw naar haar ex Piqué",
-    "subtitle": null,
-    "published_at": "2024-02-15T17:20:18+01:00",
-    "updated_at": "2024-02-15T17:20:19+01:00",
-    "media_id": "7mzxevuasyrc",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6301668/shakira-sneert-met-eerste-album-in-zeven-jaar-tijd-opnieuw-naar-haar-ex-pique.html",
     "open_new_window": false,
     "partner": null
   }
