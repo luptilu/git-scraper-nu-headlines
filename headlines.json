@@ -1,5 +1,28 @@
 [
   {
+    "id": 6301774,
+    "slug": "poetin-criticus-alexei-navalny-in-gevangenis-overleden",
+    "type": "article",
+    "title": "Poetin-criticus Alexei Navalny in gevangenis overleden",
+    "subtitle": null,
+    "published_at": "2024-02-16T12:27:23+01:00",
+    "updated_at": "2024-02-16T12:27:28+01:00",
+    "media_id": "gvzxkn9akexw",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6301774/poetin-criticus-alexei-navalny-in-gevangenis-overleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301766,
     "slug": "europese-gezondheidsdienst-waarschuwt-voor-uitbraak-van-mazelen",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6301735/slachtoffers-dodelijke-botsing-friesland-waren-twee-70-plussers-en-34-jarige-man.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301734,
-    "slug": "schiphol-verwacht-forse-groei-van-aantal-vluchten-dit-jaar",
-    "type": "article",
-    "title": "Schiphol verwacht forse groei van aantal vluchten dit jaar",
-    "subtitle": null,
-    "published_at": "2024-02-16T09:11:18+01:00",
-    "updated_at": "2024-02-16T11:00:08+01:00",
-    "media_id": "n99x68fap5mr",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6301734/schiphol-verwacht-forse-groei-van-aantal-vluchten-dit-jaar.html",
     "open_new_window": false,
     "partner": null
   }
