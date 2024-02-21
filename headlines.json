@@ -1,5 +1,28 @@
 [
   {
+    "id": 6301624,
+    "slug": "eefje-de-visser-vond-na-geboorte-van-zoon-meer-tijd-voor-nieuwe-muziek",
+    "type": "article",
+    "title": "Eefje de Visser vond na geboorte van zoon méér tijd voor nieuwe muziek",
+    "subtitle": "NU+",
+    "published_at": "2024-02-21T12:25:41+01:00",
+    "updated_at": "2024-02-21T12:25:42+01:00",
+    "media_id": "ttkxkgjaw6oc",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6301624/eefje-de-visser-vond-na-geboorte-van-zoon-meer-tijd-voor-nieuwe-muziek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302383,
     "slug": "verstappen-goed-begonnen-aan-wintertests-problemen-bij-mercedes",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Brug in aanbouw ingestort in Lochem: 'Waarschijnlijk knapte een kabel'",
     "subtitle": "Video",
     "published_at": "2024-02-21T12:09:18+01:00",
-    "updated_at": "2024-02-21T12:11:21+01:00",
+    "updated_at": "2024-02-21T12:27:21+01:00",
     "media_id": "v3jx6j5a4kyz",
     "duration": "0:38",
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Deel van brug in aanbouw in Lochem ingestort, meerdere mensen bekneld",
     "subtitle": null,
     "published_at": "2024-02-21T11:50:50+01:00",
-    "updated_at": "2024-02-21T12:13:10+01:00",
+    "updated_at": "2024-02-21T12:24:55+01:00",
     "media_id": "szpxgcvaf0ri",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/het-woord/6302339/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302330,
-    "slug": "beyonce-eerste-zwarte-vrouw-op-een-in-amerikaanse-countryhitlijst",
-    "type": "article",
-    "title": "Beyoncé eerste zwarte vrouw op één in Amerikaanse countryhitlijst",
-    "subtitle": null,
-    "published_at": "2024-02-21T08:33:50+01:00",
-    "updated_at": "2024-02-21T08:33:56+01:00",
-    "media_id": "prpxx0tahh6i",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6302330/beyonce-eerste-zwarte-vrouw-op-een-in-amerikaanse-countryhitlijst.html",
     "open_new_window": false,
     "partner": null
   }
