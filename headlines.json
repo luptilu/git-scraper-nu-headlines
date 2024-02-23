@@ -1,12 +1,35 @@
 [
   {
+    "id": 6302739,
+    "slug": "oranje-weggespeeld-door-wereldkampioen-spanje-hun-positiespel-is-uniek",
+    "type": "article",
+    "title": "Oranje weggespeeld door wereldkampioen Spanje: 'Hun positiespel is uniek'",
+    "subtitle": null,
+    "published_at": "2024-02-23T23:47:07+01:00",
+    "updated_at": "2024-02-23T23:47:23+01:00",
+    "media_id": "o1px1a3ats1j",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6302739/oranje-weggespeeld-door-wereldkampioen-spanje-hun-positiespel-is-uniek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302740,
     "slug": "trump-hoort-dat-boetebedrag-om-fraude-oploopt-met-99-miljoen-dollar-aan-rente",
     "type": "article",
     "title": "Trump hoort dat boetebedrag om fraude oploopt met 99 miljoen dollar aan rente",
     "subtitle": null,
     "published_at": "2024-02-23T23:17:27+01:00",
-    "updated_at": "2024-02-23T23:26:41+01:00",
+    "updated_at": "2024-02-23T23:27:30+01:00",
     "media_id": "rfdxy4ia5bli",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Oranje mag na kansloze nederlaag tegen Spanje blijven dromen van Spelen",
     "subtitle": null,
     "published_at": "2024-02-23T22:59:16+01:00",
-    "updated_at": "2024-02-23T23:22:24+01:00",
+    "updated_at": "2024-02-23T23:41:06+01:00",
     "media_id": "5r0xe2daprws",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Nog eens drie tieners opgepakt voor gooien winkelwagen op vrouw in Rotterdam",
     "subtitle": null,
     "published_at": "2024-02-23T22:52:21+01:00",
-    "updated_at": "2024-02-23T22:53:58+01:00",
+    "updated_at": "2024-02-23T23:43:49+01:00",
     "media_id": "sgmx8wfafggv",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/schaatsen/6302720/van-junior-tot-olympisch-goud-de-carriere-van-thomas-krol-in-fotos.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302718,
-    "slug": "red-bull-duidelijk-favoriet-voor-opvallend-ferrari-daarachter-vraagtekens",
-    "type": "article",
-    "title": "Red Bull duidelijk favoriet voor opvallend Ferrari, daarachter vraagtekens",
-    "subtitle": "NU+",
-    "published_at": "2024-02-23T19:22:41+01:00",
-    "updated_at": "2024-02-23T22:01:16+01:00",
-    "media_id": "38lxe7oa1hf1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778846,
-      "slug": "nu-formule-1",
-      "type": "default",
-      "name": "NU+ Formule 1",
-      "style": "nusport",
-      "media_id": "gtmxcxnaui5m",
-      "partner": null
-    },
-    "url": "/nu-formule-1/6302718/red-bull-duidelijk-favoriet-voor-opvallend-ferrari-daarachter-vraagtekens.html",
     "open_new_window": false,
     "partner": null
   }
